@@ -5,7 +5,7 @@ ANH-1X_UnitCard,Annihilator,ANH-1X,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2
 ANH-2A_UnitCard,Annihilator,ANH-2A,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3048,1595,Unit.Role.Juggernaut,,75,10,Wolf's Dragoons pre-3050,,,,,,,,VeryRare,,,,,
 ARC-2R_UnitCard,Archer,ARC-2R,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2474,1477,Unit.Role.MissileBoat,,45,6,,Common,Common,VeryCommon,VeryCommon,Common,Common,VeryCommon,Common,Uncommon,Uncommon,Common,Common,Common
 ARC-T_UnitCard,Archer,ARC-T,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3006,1477,Unit.Role.MissileBoat,,45,6,Unique,,,,,,,,,,,,,
-ARC-T_UnitCard,Archer,ARC-T2,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3006,1477,Unit.Role.MissileBoat,,45,6,Unique,,,,,,,,,,,,,
+ARC-T2_UnitCard,Archer,ARC-T2,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3006,1477,Unit.Role.MissileBoat,,45,6,Unique,,,,,,,,,,,,,
 ARC-5S_UnitCard,Archer,ARC-5S,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1477,Unit.Role.MissileBoat,,50,7,,Uncommon,Rare,Rare,Rare,,Rare,Rare,Rare,Rare,Rare,,Rare,Rare
 ARC-5W_UnitCard,Archer,ARC-5W,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1477,Unit.Role.MissileBoat,,50,7,,Uncommon,Rare,Rare,Rare,,Rare,Rare,Rare,Rare,Rare,,Rare,Rare
 ASN-101_UnitCard,Assassin,ASN-101,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3024,757,Unit.Role.Scout,,5,2,,,VeryRare,,,,,,,,,,,VeryRare

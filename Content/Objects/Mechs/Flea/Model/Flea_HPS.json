@@ -565,6 +565,6 @@
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_AH1_AMS.Weapon_Mech_FLE_Torso_Left_AH1_AMS_C",
 				"()": "None"
 			}
-		},
+		}
 	]
 }
