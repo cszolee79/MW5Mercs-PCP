@@ -1,0 +1,243 @@
+{
+	"weaponSlots": [
+		{
+			"hardpointSlotId": "Torso_Left_EH1_smalllaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_HPPC.Weapon_Mech_FLE_Torso_Left_EH1_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_PPC.Weapon_Mech_FLE_Torso_Left_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_PPC.Weapon_Mech_FLE_Torso_Left_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_SNPPC.Weapon_Mech_FLE_Torso_Left_EH1_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_LPPC.Weapon_Mech_FLE_Torso_Left_EH1_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Flamer.Weapon_Mech_FLE_Torso_Left_EH1_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_SNPPC.Weapon_Mech_FLE_Torso_Left_EH1_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_EH1_Laser.Weapon_Mech_FLE_Torso_Left_EH1_Laser_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_GB1_Blank.Weapon_Mech_FLE_Torso_Left_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Center_EH1_flamer",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "CenterTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:Flamer_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Flamer.Weapon_Mech_FLE_Torso_Center_EH1_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_SNPPC.Weapon_Mech_FLE_Torso_Center_EH1_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_LPPC.Weapon_Mech_FLE_Torso_Center_EH1_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Laser.Weapon_Mech_FLE_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_SNPPC.Weapon_Mech_FLE_Torso_Center_EH1_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_EH1_Flamer.Weapon_Mech_FLE_Torso_Center_EH1_Flamer_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Center_GB1_Blank.Weapon_Mech_FLE_Torso_Center_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Right_EH1_smalllaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "RightTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_HPPC.Weapon_Mech_FLE_Torso_Right_EH1_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_PPC.Weapon_Mech_FLE_Torso_Right_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_PPC.Weapon_Mech_FLE_Torso_Right_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_SNPPC.Weapon_Mech_FLE_Torso_Right_EH1_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_LPPC.Weapon_Mech_FLE_Torso_Right_EH1_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Flamer.Weapon_Mech_FLE_Torso_Right_EH1_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_SNPPC.Weapon_Mech_FLE_Torso_Right_EH1_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_EH1_Laser.Weapon_Mech_FLE_Torso_Right_EH1_Laser_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Right_GB1_Blank.Weapon_Mech_FLE_Torso_Right_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_EH2_mediumlaser",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_HPPC.Weapon_Mech_FLE_Forearm_Right_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_PPC.Weapon_Mech_FLE_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_PPC.Weapon_Mech_FLE_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_SNPPC.Weapon_Mech_FLE_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_LPPC.Weapon_Mech_FLE_Forearm_Right_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Flamer.Weapon_Mech_FLE_Forearm_Right_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_SNPPC.Weapon_Mech_FLE_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_EH2_Laser.Weapon_Mech_FLE_Forearm_Right_EH2_Laser_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_GB1_Blank.Weapon_Mech_FLE_Forearm_Right_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_BH1_machinegun",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MachineGun_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_MG.Weapon_Mech_FLE_Forearm_Right_BH1_MG_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_UAC10.Weapon_Mech_FLE_Forearm_Right_BH1_UAC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_AC10.Weapon_Mech_FLE_Forearm_Right_BH1_AC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_LBX10.Weapon_Mech_FLE_Forearm_Right_BH1_LBX10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_RAC5.Weapon_Mech_FLE_Forearm_Right_BH1_RAC5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.LightGauss\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_Lgauss.Weapon_Mech_FLE_Forearm_Right_BH1_Lgauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_UAC5.Weapon_Mech_FLE_Forearm_Right_BH1_UAC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_LBX5.Weapon_Mech_FLE_Forearm_Right_BH1_LBX5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_AC5.Weapon_Mech_FLE_Forearm_Right_BH1_AC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_LBX2.Weapon_Mech_FLE_Forearm_Right_BH1_LBX2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_RAC2.Weapon_Mech_FLE_Forearm_Right_BH1_RAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_UAC2.Weapon_Mech_FLE_Forearm_Right_BH1_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_AC2.Weapon_Mech_FLE_Forearm_Right_BH1_AC2_C",
+				"(TagName=\"Weapon.Ballistic.MG.HeavyMachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_HMG.Weapon_Mech_FLE_Forearm_Right_BH1_HMG_C",
+				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_LMG.Weapon_Mech_FLE_Forearm_Right_BH1_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_BH1_MG.Weapon_Mech_FLE_Forearm_Right_BH1_MG_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Right_GB1_Blank.Weapon_Mech_FLE_Forearm_Right_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_EH2_mediumlaser",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_HPPC.Weapon_Mech_FLE_Forearm_Left_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_PPC.Weapon_Mech_FLE_Forearm_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_PPC.Weapon_Mech_FLE_Forearm_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_SNPPC.Weapon_Mech_FLE_Forearm_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_LPPC.Weapon_Mech_FLE_Forearm_Left_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Flamer.Weapon_Mech_FLE_Forearm_Left_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_SNPPC.Weapon_Mech_FLE_Forearm_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_EH2_Laser.Weapon_Mech_FLE_Forearm_Left_EH2_Laser_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_GB1_Blank.Weapon_Mech_FLE_Forearm_Left_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_BH1_machinegun",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MachineGun_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_MG.Weapon_Mech_FLE_Forearm_Left_BH1_MG_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_UAC10.Weapon_Mech_FLE_Forearm_Left_BH1_UAC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_AC10.Weapon_Mech_FLE_Forearm_Left_BH1_AC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX10\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_LBX10.Weapon_Mech_FLE_Forearm_Left_BH1_LBX10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_RAC5.Weapon_Mech_FLE_Forearm_Left_BH1_RAC5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.LightGauss\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_Lgauss.Weapon_Mech_FLE_Forearm_Left_BH1_Lgauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_UAC5.Weapon_Mech_FLE_Forearm_Left_BH1_UAC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_LBX5.Weapon_Mech_FLE_Forearm_Left_BH1_LBX5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC5\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_AC5.Weapon_Mech_FLE_Forearm_Left_BH1_AC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_LBX2.Weapon_Mech_FLE_Forearm_Left_BH1_LBX2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_RAC2.Weapon_Mech_FLE_Forearm_Left_BH1_RAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_UAC2.Weapon_Mech_FLE_Forearm_Left_BH1_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC2\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_AC2.Weapon_Mech_FLE_Forearm_Left_BH1_AC2_C",
+				"(TagName=\"Weapon.Ballistic.MG.HeavyMachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_HMG.Weapon_Mech_FLE_Forearm_Left_BH1_HMG_C",
+				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_LMG.Weapon_Mech_FLE_Forearm_Left_BH1_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_BH1_MG.Weapon_Mech_FLE_Forearm_Left_BH1_MG_C",
+				"()": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Forearm_Left_GB1_Blank.Weapon_Mech_FLE_Forearm_Left_GB1_Blank_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Left_AH1_AMS_antimissilesystem",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:AMS_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_AH1_AMS.Weapon_Mech_FLE_Torso_Left_AH1_AMS_C",
+				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_AH1_LAMS.Weapon_Mech_FLE_Torso_Left_AH1_LAMS_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Flea/Model/Weapons/Weapon_Mech_FLE_Torso_Left_AH1_AMS.Weapon_Mech_FLE_Torso_Left_AH1_AMS_C",
+				"()": "None"
+			}
+		},
+	]
+}
