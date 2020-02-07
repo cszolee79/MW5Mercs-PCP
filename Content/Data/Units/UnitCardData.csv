@@ -1,8 +1,9 @@
 UnitCardAsset,Chassis,Variant,Type,Usage,IntroDate,BV2,Role,EnvironmentBlacklist,IntroDifficulty,Tier,Notes,Comstar_Rarity,Davion_Rarity,FRR_Rarity,Kurita_Rarity,Liao_Rarity,Marik_Rarity,Steiner_Rarity,Mercs_Rarity,Periphery_Rarity,Outlaws_Rarity,Independent_Rarity,BlackInferno_Rarity,FedCom_Rarity
 ANH-1A_UnitCard,Annihilator,ANH-1A,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3009,1434,Unit.Role.Juggernaut,,75,10,Wolf's Dragoons mainly,,,,,,,,VeryRare,,,,,
 ANH-1E_UnitCard,Annihilator,ANH-1E,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3028,1625,Unit.Role.Juggernaut,,75,10,Wolf's Dragoons mainly,,,,,,,,VeryRare,,,,,
-ANH-1X_UnitCard,Annihilator,ANH-1X,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2779,1926,Unit.Role.Juggernaut,,75,10,"Extinct by 3050, no info earlier",,,,,,,,,,,,,
-ANH-2A_UnitCard,Annihilator,ANH-2A,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3048,1595,Unit.Role.Juggernaut,,75,10,Wolf's Dragoons pre-3050,,,,,,,,VeryRare,,,,,
+ANH-1X_UnitCard,Annihilator,ANH-1X,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2779,1926,Unit.Role.Juggernaut,,75,10,"Extinct by 3050, no info earlier",,,,,,,VeryRare,VeryRare,,,,,VeryRare
+ANH-2A_UnitCard,Annihilator,ANH-2A,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3048,1595,Unit.Role.Juggernaut,,75,10,Wolf's Dragoons pre-3050,,,,,,,VeryRare,VeryRare,,,,,VeryRare
+ANH-MB_UnitCard,Annihilator,ANH-MB,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3048,1595,Unit.Role.Juggernaut,,75,10,Unique,,,,,,,,,,,,,
 ARC-2R_UnitCard,Archer,ARC-2R,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2474,1477,Unit.Role.MissileBoat,,45,6,,Common,Common,VeryCommon,VeryCommon,Common,Common,VeryCommon,Common,Uncommon,Uncommon,Common,Common,Common
 ARC-T_UnitCard,Archer,ARC-T,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3006,1477,Unit.Role.MissileBoat,,45,6,Unique,,,,,,,,,,,,,
 ARC-T2_UnitCard,Archer,ARC-T2,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3006,1477,Unit.Role.MissileBoat,,45,6,Unique,,,,,,,,,,,,,
@@ -90,9 +91,9 @@ FS9-E_UnitCard,Firestarter,FS9-E,UnitType.Mech.Light,Unit.Usage.Unique,1/1/3015,
 FS9-FS_UnitCard,Firestarter,FS9-FS,UnitType.Mech.Light,Unit.Usage.Unique,1/1/3038,687,Unit.Role.Striker,,4,2,Unique,,,,,,,,,,,,,
 FS9-H_UnitCard,Firestarter,FS9-H,UnitType.Mech.Light,Unit.Usage.Market,1/1/2703,694,Unit.Role.Scout,,4,2,,Uncommon,Uncommon,Common,Common,Common,Uncommon,Uncommon,Common,Uncommon,Uncommon,Common,Common,Uncommon
 FS9-K_UnitCard,Firestarter,FS9-K,UnitType.Mech.Light,Unit.Usage.Market,1/1/2550,763,Unit.Role.Scout,,4,2,Extinct by 2901,,,,,,,,,,,,,
-FLE-15_UnitCard,Flea,FLE-15,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,,,,,Uncommon,,Uncommon,,,,,
-FLE-17_UnitCard,Flea,FLE-17,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,,,,,Uncommon,,Uncommon,,,,,
-FLE-19_UnitCard,Flea,FLE-19,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,,,,,Uncommon,,Uncommon,,,,,
+FLE-15_UnitCard,Flea,FLE-15,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,Uncommon,,,,Uncommon,Uncommon,Uncommon,,,,,Uncommon
+FLE-17_UnitCard,Flea,FLE-17,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,Uncommon,,,,Uncommon,Uncommon,Uncommon,,,,,Uncommon
+FLE-19_UnitCard,Flea,FLE-19,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,,,Uncommon,,,,Uncommon,Uncommon,Uncommon,,,,,Uncommon
 FLE-FA_UnitCard,Flea,FLE-FA,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,Unique,,,,,,,,,,,,,
 FLE-R5K_UnitCard,Flea,FLE-R5K,UnitType.Mech.Light,Unit.Usage.Market,1/1/2523,430,Unit.Role.Scout,,2,1,Unique,,,,,,,,,,,,,
 GHR-5H_UnitCard,Grasshopper,GHR-5H,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2780,1427,Unit.Role.Skirmisher,,43,6,,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
@@ -133,7 +134,7 @@ JR7-K_UnitCard,Jenner,JR7-K,UnitType.Mech.Light,Unit.Usage.Market,1/1/3047,689,U
 JR7-O_UnitCard,Jenner,JR7-O,UnitType.Mech.Light,Unit.Usage.Unique,1/1/3015,603,Unit.Role.MissileBoat,,12,3,Unique,,,,,,,,,,,,,
 KGC-000_UnitCard,King Crab,KGC-000,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2743,1906,Unit.Role.Juggernaut,,70,10,,Uncommon,,VeryRare,,,,,,,,,Rare,
 KGC-0000_UnitCard,King Crab,KGC-0000,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2815,1810,Unit.Role.Juggernaut,,70,10,,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,,,VeryRare
-KGC-000b_UnitCard,King Crab,KGC-000b,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/2743,2039,Unit.Role.Juggernaut,,70,10,Extinct in IS by 2781?,VeryRare,,VeryRare,,,,,,,,,Rare,
+KGC-000b_UnitCard,King Crab,KGC-000b,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/2743,2039,Unit.Role.Juggernaut,,70,10,Extinct in IS by 2781?,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,,Rare,VeryRare
 KGC-KJ_UnitCard,King Crab,KGC-KJ,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3032,2117,Unit.Role.Juggernaut,,70,10,Unique,,,,,,,,,,,,,
 KGC-KJ2_UnitCard,King Crab,KGC-KJ2,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3032,2117,Unit.Role.Juggernaut,,70,10,Unique,,,,,,,,,,,,,
 KTO-18_UnitCard,Kintaro,KTO-18,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2792,1187,Unit.Role.Skirmisher,,20,5,,,Uncommon,,Rare,,,,,,,,,Rare
