@@ -148,6 +148,7 @@ LCT-3S_UnitCard,Locust,LCT-3S,UnitType.Mech.Light,Unit.Usage.Market,1/1/3049,483
 LCT-3V_UnitCard,Locust,LCT-3V,UnitType.Mech.Light,Unit.Usage.Market,1/1/3004,490,Unit.Role.Scout,,3,1,,,Rare,Rare,Rare,Rare,Rare,Rare,Rare,Rare,Rare,Rare,Rare,Rare
 MAD-3R_UnitCard,Marauder,MAD-3R,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2819,1363,Unit.Role.Sniper,,44,7,,,Uncommon,Rare,Rare,Rare,Rare,Uncommon,Uncommon,Rare,Uncommon,Uncommon,Uncommon,Uncommon
 MAD-5D_UnitCard,Marauder,MAD-5D,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3047,1787,Unit.Role.Skirmisher,,50,7,,,Uncommon,Rare,,,,Uncommon,Uncommon,,,,Uncommon,Uncommon
+MAD-5M_UnitCard,Marauder,MAD-5M,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3047,1787,Unit.Role.Skirmisher,,50,7,,,Uncommon,Rare,,,,Uncommon,Uncommon,,,,Uncommon,Uncommon
 MAD-BH2_UnitCard,Marauder,MAD-BH2,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3044,2103,Unit.Role.Sniper,,60,8,Unique,,,,,,,,,,,,,
 MAL-1P_UnitCard,Mauler,MAL-1P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3041,1348,Unit.Role.Sniper,,40,9,,,,,,,,,,,,,,
 MAL-1R_UnitCard,Mauler,MAL-1R,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1586,Unit.Role.Sniper,,49,9,,,,VeryRare,Uncommon,,,,,,,,,
