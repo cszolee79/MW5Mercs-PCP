@@ -40,9 +40,12 @@ BJ-1DC_UnitCard,Blackjack,BJ-1DC,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3024
 BJ-1X_UnitCard,Blackjack,BJ-1X,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2756,964,Unit.Role.Skirmisher,,5,3,Extinct by 2781,,,,,,,,,,,,,
 BJ-3_UnitCard,Blackjack,BJ-3,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3042,1271,Unit.Role.Brawler,,10,4,,,Uncommon,,,,,Rare,Rare,,,Uncommon,Rare,Uncommon
 BJ-A_UnitCard,Blackjack,BJ-A,UnitType.Mech.Medium,Unit.Usage.Unique,1/1/3016,1045,Unit.Role.Skirmisher,,15,3,Unique,,,,,,,,,,,,,
+BL-6-KNT_UnitCard,Black Knight,BL-6-KNT,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2809,1443,Unit.Role.Brawler,,44,7,,,VeryRare,VeryRare,VeryRare,,VeryRare,VeryRare,VeryRare,,,,VeryRare,VeryRare
+BL-6B-KNT_UnitCard,Black Knight,BL-6B-KNT,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2809,1409,Unit.Role.Brawler,,43,7,,,VeryRare,VeryRare,VeryRare,,VeryRare,VeryRare,VeryRare,,,,VeryRare,VeryRare
 BL-7-KNT_UnitCard,Black Knight,BL-7-KNT,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2809,1443,Unit.Role.Brawler,,44,7,,,VeryRare,VeryRare,VeryRare,,VeryRare,VeryRare,VeryRare,,,,VeryRare,VeryRare
 BL-7-KNT-L_UnitCard,Black Knight,BL-7-KNT-L,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2809,1409,Unit.Role.Brawler,,43,7,,,,,,,VeryRare,,,,,,,
 BL-P-KNT_UnitCard,Black Knight,BL-P-KNT,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/2788,1531,Unit.Role.Brawler,,47,8,Unique,,,,,,,,,,,,,
+BL-G-KNT_UnitCard,Black Knight,BL-G-KNT,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/2788,1531,Unit.Role.Brawler,,47,8,Unique,,,,,,,,,,,,,
 CTF-1X_UnitCard,Cataphract,CTF-1X,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3025,1316,Unit.Role.Brawler,,35,6,,,Uncommon,,,Uncommon,,,Rare,,,VeryRare,Rare,Rare
 CTF-2X_UnitCard,Cataphract,CTF-2X,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3027,1344,Unit.Role.Brawler,,37,6,,,Uncommon,,,Uncommon,,,Rare,,,VeryRare,Rare,Rare
 CTF-4X_UnitCard,Cataphract,CTF-4X,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3029,1216,Unit.Role.Sniper,,35,6,,,Rare,,,,,,,,,,,Rare
@@ -135,6 +138,7 @@ JR7-O_UnitCard,Jenner,JR7-O,UnitType.Mech.Light,Unit.Usage.Unique,1/1/3015,603,U
 KGC-000_UnitCard,King Crab,KGC-000,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2743,1906,Unit.Role.Juggernaut,,70,10,,Uncommon,,VeryRare,,,,,,,,,Rare,
 KGC-0000_UnitCard,King Crab,KGC-0000,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2815,1810,Unit.Role.Juggernaut,,70,10,,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,,,VeryRare
 KGC-000b_UnitCard,King Crab,KGC-000b,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/2743,2039,Unit.Role.Juggernaut,,70,10,Extinct in IS by 2781?,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,,Rare,VeryRare
+KGC-G_UnitCard,King Crab,KGC-G,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3001,3000,Unit.Role.Juggernaut,,70,10,Unique,,,,,,,,,,,,,
 KGC-KJ_UnitCard,King Crab,KGC-KJ,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3032,2117,Unit.Role.Juggernaut,,70,10,Unique,,,,,,,,,,,,,
 KGC-KJ2_UnitCard,King Crab,KGC-KJ2,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3032,2117,Unit.Role.Juggernaut,,70,10,Unique,,,,,,,,,,,,,
 KTO-18_UnitCard,Kintaro,KTO-18,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2792,1187,Unit.Role.Skirmisher,,20,5,,,Uncommon,,Rare,,,,,,,,,Rare
@@ -265,3 +269,5 @@ ZEU-5S_UnitCard,Zeus,ZEU-5S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2788,147
 ZEU-6S_UnitCard,Zeus,ZEU-6S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2898,1348,Unit.Role.Sniper,,40,7,,,Rare,Uncommon,,,,VeryCommon,Common,,,Rare,Uncommon,Common
 ZEU-6T_UnitCard,Zeus,ZEU-6T,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3026,1436,Unit.Role.Sniper,,44,7,,,VeryRare,,,,,VeryCommon,,,,,,Uncommon
 ZEU-9S_UnitCard,Zeus,ZEU-9S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,,,Rare,Rare,,,,VeryCommon,Common,,,,Uncommon,Common
+ZEU-9S2_UnitCard,Zeus,ZEU-9S2,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,,,Rare,Rare,,,,Common,Rare,,,,Uncommon,Common
+ZEU-SK_UnitCard,Zeus,ZEU-SK,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,Unique,,,,,,,,,,,,Uncommon,Common

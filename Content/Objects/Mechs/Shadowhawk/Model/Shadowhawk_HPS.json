@@ -187,6 +187,38 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Right_MH1_lrm10",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "RightTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:LRM10_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile5.Weapon_Mech_SHD_Torso_Right_MH1_Missile5_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile10.Weapon_Mech_SHD_Torso_Right_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile6.Weapon_Mech_SHD_Torso_Right_MH1_Missile6_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile6.Weapon_Mech_SHD_Torso_Right_MH1_Missile6_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile1.Weapon_Mech_SHD_Torso_Right_MH1_Missile1_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile5.Weapon_Mech_SHD_Torso_Right_MH1_Missile5_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile4.Weapon_Mech_SHD_Torso_Right_MH1_Missile4_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile4.Weapon_Mech_SHD_Torso_Right_MH1_Missile4_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile2.Weapon_Mech_SHD_Torso_Right_MH1_Missile2_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile2.Weapon_Mech_SHD_Torso_Right_MH1_Missile2_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile2.Weapon_Mech_SHD_Torso_Right_MH1_Missile2_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Right_MH1_Missile5.Weapon_Mech_SHD_Torso_Right_MH1_Missile5_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Torso_Right_MH2_lrm5",
 			"mechSkeletonSocketId": "Torso_Weapon",
 			"mechPart": "RightTorso",
@@ -467,6 +499,39 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Left_EH2_mediumlaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_PPC.Weapon_Mech_SHD_Torso_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_HPPC.Weapon_Mech_SHD_Torso_Left_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_PPC.Weapon_Mech_SHD_Torso_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_SNPPC.Weapon_Mech_SHD_Torso_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_LPPC.Weapon_Mech_SHD_Torso_Left_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Laser.Weapon_Mech_SHD_Torso_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_Flamer.Weapon_Mech_SHD_Torso_Left_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_SNPPC.Weapon_Mech_SHD_Torso_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH2_PPC.Weapon_Mech_SHD_Torso_Left_EH2_PPC_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Torso_Left_EH3_ppc",
 			"mechSkeletonSocketId": "Torso_Weapon",
 			"mechPart": "LeftTorso",
@@ -474,6 +539,39 @@
 			"slotTypeAssetId":
 			{
 				"id": "MWSlotTypeDataAsset:PPC_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_PPC.Weapon_Mech_SHD_Torso_Left_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_HPPC.Weapon_Mech_SHD_Torso_Left_EH3_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_PPC.Weapon_Mech_SHD_Torso_Left_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_SNPPC.Weapon_Mech_SHD_Torso_Left_EH3_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_LPPC.Weapon_Mech_SHD_Torso_Left_EH3_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Laser.Weapon_Mech_SHD_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_Flamer.Weapon_Mech_SHD_Torso_Left_EH3_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_SNPPC.Weapon_Mech_SHD_Torso_Left_EH3_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Shadowhawk/Model/Weapons/Weapon_Mech_SHD_Torso_Left_EH3_PPC.Weapon_Mech_SHD_Torso_Left_EH3_PPC_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Left_EH3_mediumlaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
