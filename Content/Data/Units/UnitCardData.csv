@@ -11,7 +11,11 @@ ARC-5S_UnitCard,Archer,ARC-5S,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,147
 ARC-5W_UnitCard,Archer,ARC-5W,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1477,Unit.Role.MissileBoat,,50,7,,Uncommon,Rare,Rare,Rare,,Rare,Rare,Rare,Rare,Rare,,Rare,Rare
 ASN-101_UnitCard,Assassin,ASN-101,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3024,757,Unit.Role.Scout,,5,2,,,VeryRare,,,,,,,,,,,VeryRare
 ASN-21_UnitCard,Assassin,ASN-21,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2676,749,Unit.Role.Scout,,3,2,,Uncommon,Rare,Rare,Rare,,Rare,Rare,Rare,Rare,Rare,,Rare,Rare
+ASN-23_UnitCard,Assassin,ASN-23,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2676,749,Unit.Role.Scout,,3,2,,Uncommon,Rare,Rare,Rare,,Rare,Rare,Rare,Rare,Rare,,Rare,Rare
 ASN-26_UnitCard,Assassin,ASN-26,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,1044,Unit.Role.Scout,,5,4,,,Rare,Rare,Rare,,Rare,Rare,,,,,,Rare
+ASN-27_UnitCard,Assassin,ASN-27,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,1044,Unit.Role.Scout,,5,4,,,Rare,Rare,Rare,,Rare,Rare,,,,,,Rare
+ASN-31_UnitCard,Assassin,ASN-31,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,1200,Unit.Role.Scout,,5,4,,,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,VeryRare,,VeryRare
+ASN-DD_UnitCard,Assassin,ASN-DD,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,1044,Unit.Role.Scout,,5,4,Unique,,,,,,,,,,,,,
 AS7-BH_UnitCard,Atlas,AS7-BH,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3024,1717,Unit.Role.Juggernaut,,54,10,Unique,,,,,,,,,,,,,
 AS7-D_UnitCard,Atlas,AS7-D,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2755,1897,Unit.Role.Juggernaut,,61,9,,Common,Uncommon,Uncommon,Uncommon,VeryRare,Uncommon,Common,Uncommon,VeryRare,VeryRare,VeryRare,Uncommon,Uncommon
 AS7-K_UnitCard,Atlas,AS7-K,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,2175,Unit.Role.Sniper,,72,9,,Uncommon,,Uncommon,Common,VeryRare,VeryRare,,VeryRare,,,,Rare,
@@ -79,7 +83,10 @@ CRB-FL_UnitCard,Crab,CRB-FL,UnitType.Mech.Medium,Unit.Usage.Unique,1/1/3041,1121
 CP-10-Q_UnitCard,Cyclops,CP-10-Q,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2801,1584,Unit.Role.MissileBoat,,49,8,,,Rare,Rare,Uncommon,Rare,VeryRare,Rare,Rare,,,Rare,Rare,Rare
 CP-10-Z_UnitCard,Cyclops,CP-10-Z,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2710,1317,Unit.Role.Juggernaut,,49,8,,Uncommon,Rare,Rare,Rare,Uncommon,VeryRare,Rare,Rare,Rare,VeryRare,Rare,Rare,Rare
 CP-11-A_UnitCard,Cyclops,CP-11-A,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3045,1547,Unit.Role.Sniper,,48,9,,,Rare,Rare,Uncommon,Rare,VeryRare,Rare,Rare,VeryRare,,Rare,Rare,Rare
+CP-11-A-DC_UnitCard,Cyclops,CP-11-A-DC,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3045,1547,Unit.Role.Sniper,,48,9,,,Rare,Rare,Uncommon,Rare,VeryRare,Rare,Rare,VeryRare,,Rare,Rare,Rare
+CP-11-P_UnitCard,Cyclops,CP-11-P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3045,1547,Unit.Role.Sniper,,48,9,,,Rare,Rare,Uncommon,Rare,VeryRare,Rare,Rare,VeryRare,,Rare,Rare,Rare
 CP-S_UnitCard,Cyclops,CP-S,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3031,2160,Unit.Role.Sniper,,71,10,Unique,,,,,,,,,,,,,
+CP-S2_UnitCard,Cyclops,CP-S2,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3031,2160,Unit.Role.Sniper,,71,10,Unique,,,,,,,,,,,,,
 DRG-1C_UnitCard,Dragon,DRG-1C,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2752,1115,Unit.Role.Skirmisher,,25,4,,,,Common,Common,,,,,,,,,
 DRG-1N_UnitCard,Dragon,DRG-1N,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2754,1025,Unit.Role.Skirmisher,,25,4,,,,VeryCommon,VeryCommon,,,,Uncommon,,VeryRare,,Uncommon,
 DRG-5N_UnitCard,Dragon,DRG-5N,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3047,1123,Unit.Role.Skirmisher,,25,5,,,,VeryCommon,VeryCommon,,,,Uncommon,,,,Uncommon,
@@ -270,4 +277,4 @@ ZEU-6S_UnitCard,Zeus,ZEU-6S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2898,134
 ZEU-6T_UnitCard,Zeus,ZEU-6T,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3026,1436,Unit.Role.Sniper,,44,7,,,VeryRare,,,,,VeryCommon,,,,,,Uncommon
 ZEU-9S_UnitCard,Zeus,ZEU-9S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,,,Rare,Rare,,,,VeryCommon,Common,,,,Uncommon,Common
 ZEU-9S2_UnitCard,Zeus,ZEU-9S2,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,,,Rare,Rare,,,,Common,Rare,,,,Uncommon,Common
-ZEU-SK_UnitCard,Zeus,ZEU-SK,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,Unique,,,,,,,,,,,,Uncommon,Common
+ZEU-SK_UnitCard,Zeus,ZEU-SK,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3048,1639,Unit.Role.Sniper,,52,8,Unique,,,,,,,,,,,,,

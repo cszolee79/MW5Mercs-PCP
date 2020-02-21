@@ -1,6 +1,6 @@
 ---,UnitCard,3028Weight,3039Weight,3050Weight
 ARC-2R,"(Id=""MWUnitCardAsset:ARC-2R_UnitCard"")",4.38,4.11,3.87
-ASN-21,"(Id=""MWUnitCardAsset:ASN-21_UnitCard"")",0.48,0.42,0.38
+ASN-21,"(Id=""MWUnitCardAsset:ASN-21_UnitCard"")",0.48,0.22,0.20
 AS7-D,"(Id=""MWUnitCardAsset:AS7-D_UnitCard"")",0.196666667,0.166666667,0.1225
 AS7-D-DC,"(Id=""MWUnitCardAsset:AS7-D-DC_UnitCard"")",0.196666667,0.166666667,0.1225
 AS7-K,"(Id=""MWUnitCardAsset:AS7-K_UnitCard"")",0,0,0.1225
@@ -136,4 +136,8 @@ FLE-19,"(Id=""MWUnitCardAsset:FLE-19_UnitCard"")",0,0.2,0.5
 ARC-5S,"(Id=""MWUnitCardAsset:ARC-5S_UnitCard"")",0,0,0.5
 ARC-5W,"(Id=""MWUnitCardAsset:ARC-5S_UnitCard"")",0,0,0.5
 MAD-5D,"(Id=""MWUnitCardAsset:MAD-5D_UnitCard"")",0,0,0.18
+ASN-23,"(Id=""MWUnitCardAsset:ASN-23_UnitCard"")",0.2,0.2,0.2
+ASN-26,"(Id=""MWUnitCardAsset:ASN-26_UnitCard"")",0,0.2,0.4
+ASN-27,"(Id=""MWUnitCardAsset:ASN-27_UnitCard"")",0,0.2,0.4
+CP-11-P,"(Id=""MWUnitCardAsset:CP-11-P_UnitCard"")",0,0,0.1
 ,,,,

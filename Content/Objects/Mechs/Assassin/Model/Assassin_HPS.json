@@ -806,7 +806,7 @@
 				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH2_Flamer.Weapon_Mech_ASN_Forearm_Right_EH2_Flamer_C",
 				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH2_SNPPC.Weapon_Mech_ASN_Forearm_Right_EH2_SNPPC_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH2_Laser.Weapon_Mech_ASN_Forearm_Right_EH2_Laser_C",
-				"()": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH2_Laser.Weapon_Mech_ASN_Forearm_Right_EH2_Laser_C"
+				"()": "None"
 			}
 		},
 		{
@@ -839,7 +839,7 @@
 				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH3_Flamer.Weapon_Mech_ASN_Forearm_Right_EH3_Flamer_C",
 				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH3_SNPPC.Weapon_Mech_ASN_Forearm_Right_EH3_SNPPC_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH3_Laser.Weapon_Mech_ASN_Forearm_Right_EH3_Laser_C",
-				"()": "/Game/Objects/Mechs/Assassin/Model/Weapons/Weapon_Mech_ASN_Forearm_Right_EH3_Laser.Weapon_Mech_ASN_Forearm_Right_EH3_Laser_C"
+				"()": "None"
 			}
 		},
 		{
