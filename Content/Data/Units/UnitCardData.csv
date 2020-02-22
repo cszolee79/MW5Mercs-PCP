@@ -124,6 +124,7 @@ HGN-733_UnitCard,Highlander,HGN-733,UnitType.Mech.Assault,Unit.Usage.Market,1/1/
 HGN-733C_UnitCard,Highlander,HGN-733C,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2866,1857,Unit.Role.Juggernaut,,60,9,,,,,,Rare,,Rare,,,,Rare,,Rare
 HGN-733P_UnitCard,Highlander,HGN-733P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2866,1865,Unit.Role.Sniper,,60,9,,,,,,Rare,,Rare,,,,Rare,,Rare
 HGN-HM_UnitCard,Highlander,HGN-HM,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3017,2065,Unit.Role.Sniper,,68,9,Unique,,,,,,,,,,,,,
+HGN-LV_UnitCard,Highlander,HGN-LV,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3017,2065,Unit.Role.Sniper,,68,9,Unique,,,,,,,,,,,,,
 HBK-4G_UnitCard,Hunchback,HBK-4G,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2572,1041,Unit.Role.Juggernaut,,7,4,,Common,Uncommon,Uncommon,Uncommon,VeryCommon,VeryCommon,Uncommon,Common,Uncommon,Uncommon,Common,Common,Uncommon
 HBK-4H_UnitCard,Hunchback,HBK-4H,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2819,1067,Unit.Role.Juggernaut,,11,4,,,Rare,Rare,Rare,Uncommon,Common,Uncommon,Common,Uncommon,Uncommon,Rare,Rare,Uncommon
 HBK-4J_UnitCard,Hunchback,HBK-4J,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2856,1143,Unit.Role.MissileBoat,,18,5,,,Uncommon,Rare,Rare,Rare,Common,Rare,Common,Rare,VeryRare,VeryRare,VeryRare,Rare

@@ -1,0 +1,246 @@
+[
+	{
+		"Name": "NewRow_1",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Atlas/UnitCard/AS7-BH_UnitCard.AS7-BH_UnitCard'"
+	},
+	{
+		"Name": "NewRow_2",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Atlas/UnitCard/AS7-KR_UnitCard.AS7-KR_UnitCard'"
+	},
+	{
+		"Name": "NewRow_3",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Awesome/UnitCard/AWS-PB_UnitCard.AWS-PB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_4",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Banshee/UnitCard/BNC-LM_UnitCard.BNC-LM_UnitCard'"
+	},
+	{
+		"Name": "NewRow_5",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Battlemaster/UnitCard/BLR-1GHE_UnitCard.BLR-1GHE_UnitCard'"
+	},
+	{
+		"Name": "NewRow_6",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Blackjack/UnitCard/BJ-A_UnitCard.BJ-A_UnitCard'"
+	},
+	{
+		"Name": "NewRow_7",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Blackknight/UnitCard/BL-P-KNT_UnitCard.BL-P-KNT_UnitCard'"
+	},
+	{
+		"Name": "NewRow_8",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Cataphract/UnitCard/CTF-IM_UnitCard.CTF-IM_UnitCard'"
+	},
+	{
+		"Name": "NewRow_9",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Catapult/UnitCard/CPLT-J_UnitCard.CPLT-J_UnitCard'"
+	},
+	{
+		"Name": "NewRow_10",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Catapult/UnitCard/CPLT-BB_UnitCard.CPLT-BB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_11",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Centurion/UnitCard/CN9-YLW_UnitCard.CN9-YLW_UnitCard'"
+	},
+	{
+		"Name": "NewRow_12",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Cicada/UnitCard/CDA-X5_UnitCard.CDA-X5_UnitCard'"
+	},
+	{
+		"Name": "NewRow_13",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Commando/UnitCard/COM-TDK_UnitCard.COM-TDK_UnitCard'"
+	},
+	{
+		"Name": "NewRow_14",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Crab/UnitCard/CRB-FL_UnitCard.CRB-FL_UnitCard'"
+	},
+	{
+		"Name": "NewRow_15",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Cyclops/UnitCard/CP-S_UnitCard.CP-S_UnitCard'"
+	},
+	{
+		"Name": "NewRow_16",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Dragon/UnitCard/DRG-FANG_UnitCard.DRG-FANG_UnitCard'"
+	},
+	{
+		"Name": "NewRow_17",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Dragon/UnitCard/DRG-FLAME_UnitCard.DRG-FLAME_UnitCard'"
+	},
+	{
+		"Name": "NewRow_19",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Firestarter/UnitCard/FS9-E_UnitCard.FS9-E_UnitCard'"
+	},
+	{
+		"Name": "NewRow_20",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Firestarter/UnitCard/FS9-FS_UnitCard.FS9-FS_UnitCard'"
+	},
+	{
+		"Name": "NewRow_21",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Grasshopper/UnitCard/GHR-MJ_UnitCard.GHR-MJ_UnitCard'"
+	},
+	{
+		"Name": "NewRow_22",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Griffin/UnitCard/GRF-1E_UnitCard.GRF-1E_UnitCard'"
+	},
+	{
+		"Name": "NewRow_23",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Griffin/UnitCard/GRF-AR_UnitCard.GRF-AR_UnitCard'"
+	},
+	{
+		"Name": "NewRow_24",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Highlander/UnitCard/HGN-HM_UnitCard.HGN-HM_UnitCard'"
+	},
+	{
+		"Name": "NewRow_25",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Hunchback/UnitCard/HBK-GI_UnitCard.HBK-GI_UnitCard'"
+	},
+	{
+		"Name": "NewRow_26",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Jagermech/UnitCard/JM6-FB_UnitCard.JM6-FB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_27",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Javelin/UnitCard/JVN-HT_UnitCard.JVN-HT_UnitCard'"
+	},
+	{
+		"Name": "NewRow_28",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Jenner/UnitCard/JR7-O_UnitCard.JR7-O_UnitCard'"
+	},
+	{
+		"Name": "NewRow_29",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Kingcrab/UnitCard/KGC-KJ_UnitCard.KGC-KJ_UnitCard'"
+	},
+	{
+		"Name": "NewRow_30",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Kintaro/UnitCard/KTO-GB_UnitCard.KTO-GB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_32",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Marauder/UnitCard/MAD-BH2_UnitCard.MAD-BH2_UnitCard'"
+	},
+	{
+		"Name": "NewRow_33",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Mauler/UnitCard/MAL-KO_UnitCard.MAL-KO_UnitCard'"
+	},
+	{
+		"Name": "NewRow_34",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Orion/UnitCard/ON1-P_UnitCard.ON1-P_UnitCard'"
+	},
+	{
+		"Name": "NewRow_35",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Panther/UnitCard/PNT-KK_UnitCard.PNT-KK_UnitCard'"
+	},
+	{
+		"Name": "NewRow_36",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Phoenixhawk/UnitCard/PXH-KK_UnitCard.PXH-KK_UnitCard'"
+	},
+	{
+		"Name": "NewRow_38",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Quickdraw/UnitCard/QKD-IV4_UnitCard.QKD-IV4_UnitCard'"
+	},
+	{
+		"Name": "NewRow_39",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Raven/UnitCard/RVN-H_UnitCard.RVN-H_UnitCard'"
+	},
+	{
+		"Name": "NewRow_40",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Rifleman/UnitCard/RFL-DB_UnitCard.RFL-DB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_41",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Rifleman/UnitCard/RFL-LK_UnitCard.RFL-LK_UnitCard'"
+	},
+	{
+		"Name": "NewRow_42",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Shadowhawk/UnitCard/SHD-GD_UnitCard.SHD-GD_UnitCard'"
+	},
+	{
+		"Name": "NewRow_43",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Spider/UnitCard/SDR-A_UnitCard.SDR-A_UnitCard'"
+	},
+	{
+		"Name": "NewRow_44",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Stalker/UnitCard/STK-M_UnitCard.STK-M_UnitCard'"
+	},
+	{
+		"Name": "NewRow_45",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Thunderbolt/UnitCard/TDR-5S-T_UnitCard.TDR-5S-T_UnitCard'"
+	},
+	{
+		"Name": "NewRow_47",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Urbanmech/UnitCard/UM-K9_UnitCard.UM-K9_UnitCard'"
+	},
+	{
+		"Name": "NewRow_48",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Urbanmech/UnitCard/UM-SC_UnitCard.UM-SC_UnitCard'"
+	},
+	{
+		"Name": "NewRow_49",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Victor/UnitCard/VTR-DS_UnitCard.VTR-DS_UnitCard'"
+	},
+	{
+		"Name": "NewRow_50",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Vindicator/UnitCard/VND-1SIB_UnitCard.VND-1SIB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_51",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Warhammer/UnitCard/WHM-BW_UnitCard.WHM-BW_UnitCard'"
+	},
+	{
+		"Name": "NewRow_53",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Wolverine/UnitCard/WVR-Q_UnitCard.WVR-Q_UnitCard'"
+	},
+	{
+		"Name": "NewRow_54",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Banshee/UnitCard/BNC-SR_UnitCard.BNC-SR_UnitCard'"
+	},
+	{
+		"Name": "NewRow_57",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Nightstar/UnitCard/NSR-WP_UnitCard.NSR-WP_UnitCard'"
+	},
+	{
+		"Name": "NewRow_58",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Atlas/UnitCard/AS7-T_UnitCard.AS7-T_UnitCard'"
+	},
+	{
+		"Name": "NewRow_59",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Atlas/UnitCard/AS7-T2_UnitCard.AS7-T2_UnitCard'"
+	},
+	{
+		"Name": "NewRow_60",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Archer/UnitCard/ARC-T_UnitCard.ARC-T_UnitCard'"
+	},
+	{
+		"Name": "NewRow_61",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Flea/UnitCard/FLE-R5K_UnitCard.FLE-R5K_UnitCard'"
+	},
+	{
+		"Name": "NewRow_62",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Assassin/UnitCard/ASN-DD_UnitCard.ASN-DD_UnitCard'"
+	},
+	{
+		"Name": "NewRow_63",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Annihilator/UnitCard/ANH-MB_UnitCard.ANH-MB_UnitCard'"
+	},
+	{
+		"Name": "NewRow_64",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Zeus/UnitCard/ZEU-SK_UnitCard.ZEU-SK_UnitCard'"
+	},
+	{
+		"Name": "NewRow_65",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Kingcrab/UnitCard/KGC-G_UnitCard.KGC-G_UnitCard'"
+	},
+	{
+		"Name": "NewRow_66",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Blackknight/UnitCard/BL-G-KNT_UnitCard.BL-G-KNT_UnitCard'"
+	},
+	{
+		"Name": "NewRow_67",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Cyclops/UnitCard/CP-S2_UnitCard.CP-S2_UnitCard'"
+	},
+	{
+		"Name": "NewRow_68",
+		"Mech": "MWUnitCardAsset'/Game/Objects/Mechs/Highlander/UnitCard/HGN-LV_UnitCard.HGN-LV_UnitCard'"
+	}
+]
