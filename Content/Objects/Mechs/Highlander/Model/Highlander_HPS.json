@@ -760,9 +760,9 @@
 			},
 			"hardpointVisuals":
 			{
-				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGR_Torso_Left_AH1_AMS.Weapon_Mech_HGR_Torso_Left_AH1_AMS_C",
-				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGR_Torso_Left_AH1_LAMS.Weapon_Mech_HGR_Torso_Left_AH1_LAMS_C",
-				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGR_Torso_Left_AH1_AMS.Weapon_Mech_HGR_Torso_Left_AH1_AMS_C",
+				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGN_Torso_Left_AH1_AMS.Weapon_Mech_HGN_Torso_Left_AH1_AMS_C",
+				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGN_Torso_Left_AH1_LAMS.Weapon_Mech_HGN_Torso_Left_AH1_LAMS_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Highlander/Model/Weapons/Weapon_Mech_HGN_Torso_Left_AH1_AMS.Weapon_Mech_HGN_Torso_Left_AH1_AMS_C",
 				"()": "None"
 			}
 		}

@@ -1,0 +1,106 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Stalker/Model/Stalker_MDL.Stalker_MDL'",
+	"mechStats":
+	{
+		"keyName": "STK-3F",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "STK-3F",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Stalker.STK-3F"
+	},
+	"chassisFullName": "Stalker",
+	"variantName": "STK-3F",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:STK-3F_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Stalker_Icon_UIX.Stalker_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Stalker/Target/Stalker_Target.Stalker_Target_C",
+	"description": "Originally designed by Triad Technologies in 2594, the Stalker has been a workhorse assault 'Mech of the Inner Sphere for more than two hundred years, and served with distinction in the Star League Defense Forces for two centuries prior to that. The Stalker is a powerhouse of a 'Mech, mounting a mix of heavy weaponry and heavy armor. While no one will ever accuse the Stalker of being fast, few will claim it is easy to stop.",
+	"selectedWeaponHardPoints": [
+		"Torso_Left_MH1_srm6",
+		"Torso_Left_EH1_largelaser",
+		"Torso_Right_MH1_srm6",
+		"Torso_Right_EH1_largelaser",
+		"Forearm_Right_EH1_mediumlaser",
+		"Forearm_Right_EH2_mediumlaser",
+		"Forearm_Right_MH1_lrm10",
+		"Forearm_Left_EH1_mediumlaser",
+		"Forearm_Left_EH2_mediumlaser",
+		"Forearm_Left_MH1_lrm10",
+		"RightTorso_AH1_AMS_antimissilesystem"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 2,
+					"LeftTorso": 8,
+					"LeftArm": 5,
+					"LeftLeg": 2,
+					"RightTorso": 7,
+					"RightArm": 5,
+					"RightLeg": 2
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 255,
+	"bXLEngine": false,
+	"baseChassisCost": 5634175,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

@@ -33,6 +33,70 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Upperarm_Right_MH2_lrm15",
+			"mechSkeletonSocketId": "Upperarm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:LRM15_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C",
+				"()": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH2_Missile20_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Upperarm_Right_MH3_lrm15",
+			"mechSkeletonSocketId": "Upperarm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:LRM15_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C",
+				"()": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Right_MH3_Missile20_C"
+			}
+		},
+		{
 			"hardpointSlotId": "Upperarm_Left_MH1_lrm15",
 			"mechSkeletonSocketId": "Upperarm_Left_Weapon",
 			"mechPart": "LeftArm",
@@ -65,13 +129,77 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Upperarm_Left_MH2_lrm15",
+			"mechSkeletonSocketId": "Upperarm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:LRM15_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C",
+				"()": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH2_Missile20_C"
+			}
+		},
+		{
+			"hardpointSlotId": "Upperarm_Left_MH3_lrm15",
+			"mechSkeletonSocketId": "Upperarm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:LRM15_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C",
+				"()": "/Game/Objects/Mechs/Catapult/Model/Weapons/Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20.Weapon_Mech_CPLT_Upperarm_Left_MH3_Missile20_C"
+			}
+		},
+		{
 			"hardpointSlotId": "Torso_Left_EH1_mediumlaser",
 			"mechSkeletonSocketId": "Torso_Weapon",
 			"mechPart": "LeftTorso",
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:LargeLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -161,7 +289,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:LargeLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -322,7 +450,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -352,7 +480,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{

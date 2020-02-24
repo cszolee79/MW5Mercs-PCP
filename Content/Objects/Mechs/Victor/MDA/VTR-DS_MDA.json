@@ -1,0 +1,136 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Victor/Model/Victor_MDL.Victor_MDL'",
+	"mechStats":
+	{
+		"keyName": "VTR-DS",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "VTR-DS",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Victor.VTR-DS"
+	},
+	"chassisFullName": "Victor",
+	"variantName": "VTR-DS",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:VTR-DS_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Victor_Icon_UIX.Victor_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Victor/Target/Victor_Target.Victor_Target_C",
+	"description": "Originally built under a defense contract with the Terran Hegemony in 2510, the Victor was conceived as a support ’Mech with jump capabilities. It went went on to serve the Star League Defense Forces during the bloody Reunification War, and the design was later made available to the League’s member states. While highly mobile for an assault 'Mech, and mounting a formidable AC20, it lacks long range firepower.",
+	"selectedWeaponHardPoints": [
+		"RightTorso_AH1_AMS_antimissilesystem",
+		"Forearm_Left_EH1_ppc",
+		"Forearm_Right_BH1_gaussrifle",
+		"Forearm_Right_BH2_mediumballistic",
+		"Torso_Left_MH1_srm6",
+		"Torso_Left_MH2_srm6",
+		"Torso_Right_EH1_mediumpulselaser",
+		"Torso_Right_EH2_mediumpulselaser"
+	],
+	"blankWeaponHardPoints": [
+		"Torso_Right_EB1_blank",
+		"Torso_Right_EB2_blank"
+	],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:EndoSteelStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Double"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "Equipment.JumpJets.Class2"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 0,
+					"LeftTorso": 5,
+					"LeftArm": 6,
+					"LeftLeg": 1,
+					"RightTorso": 6,
+					"RightArm": -2,
+					"RightLeg": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:JumpJetClass2_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 2,
+					"LeftTorso": 0,
+					"RightTorso": 0,
+					"LeftArm": 0,
+					"RightArm": 0,
+					"LeftLeg": 1,
+					"RightLeg": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 3
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 330,
+	"bXLEngine": true,
+	"baseChassisCost": 16351920,
+	"salvageShareCost": 26,
+	"bIsHeroMech": true
+}

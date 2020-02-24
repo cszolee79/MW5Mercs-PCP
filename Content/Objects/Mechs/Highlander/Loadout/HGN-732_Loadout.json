@@ -126,6 +126,17 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Right_EH3_mediumlaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": ""
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
 			"hardpointSlotId": "Forearm_Right_BH1_gaussrifle",
 			"weaponData":
 			{
@@ -182,6 +193,15 @@
 			},
 			{
 				"hardpointSlotId": "Torso_Right_EH2_mediumlaser",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": true,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Torso_Right_EH3_mediumlaser",
 				"bWeaponGroup1": false,
 				"bWeaponGroup2": false,
 				"bWeaponGroup3": true,

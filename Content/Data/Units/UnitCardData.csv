@@ -217,6 +217,8 @@ SDR-A_UnitCard,Spider,SDR-A,UnitType.Mech.Light,Unit.Usage.Unique,1/1/3015,776,U
 STK-3F_UnitCard,Stalker,STK-3F,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2594,1559,Unit.Role.Juggernaut,,60,8,,Rare,Uncommon,Uncommon,Uncommon,Uncommon,Common,Common,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
 STK-3H_UnitCard,Stalker,STK-3H,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2638,1624,Unit.Role.MissileBoat,,60,8,,VeryRare,Rare,Rare,Rare,Rare,Uncommon,Rare,Rare,Rare,Rare,Rare,Rare,Rare
 STK-4N_UnitCard,Stalker,STK-4N,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2876,1558,Unit.Role.Juggernaut,,60,8,,,Rare,Rare,Rare,Rare,Uncommon,Rare,Rare,Rare,Rare,Rare,Rare,Rare
+STK-5M_UnitCard,Stalker,STK-5M,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3041,1558,Unit.Role.Juggernaut,,60,8,,,Rare,Rare,Rare,Rare,Uncommon,Rare,Rare,Rare,Rare,Rare,Rare,Rare
+STK-5S_UnitCard,Stalker,STK-5S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3041,1558,Unit.Role.Juggernaut,,60,8,,,Rare,Rare,Rare,Rare,Uncommon,Rare,Rare,Rare,Rare,Rare,Rare,Rare
 STK-M_UnitCard,Stalker,STK-M,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3041,1850,Unit.Role.Sniper,,0,9,Unique,,,,,,,,,,,,,
 Scorpion_UnitCard,Scorpion,Scorpion,UnitType.Vehicle.Tracked.Tank,,1/1/2807,153,Unit.Role.Brawler,,0,1,Tank,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common
 Scorpion_ML_x2_MG_UnitCard,Scorpion,Scorpion_ML_x2_MG,UnitType.Vehicle.Tracked.Tank,,1/1/2875,160,Unit.Role.Juggernaut,,0,1,Tank,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common

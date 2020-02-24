@@ -1,0 +1,119 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Catapult/Model/Catapult_MDL.Catapult_MDL'",
+	"mechStats":
+	{
+		"keyName": "CPLT-C1",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "CPLT-C1",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Heavy.Catapult.CPLT-C1"
+	},
+	"chassisFullName": "Catapult",
+	"variantName": "CPLT-C1",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:CPLT-C1_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Catapult_Icon_UIX.Catapult_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Catapult/Target/Catapult_Target.Catapult_Target_C",
+	"description": "When Hollis Incorporated wanted to test the waters of the BattleMech industry, they did so with a completely new design and a state-of-the-art factory. They shipped out record numbers of Catapults for the three-year contract they had with the Terran Hegemony, but ceased production in 2563 when the contract was not renewed. Primarily a fire-support platform, the Catapult is often used in second line and specialist mountaineering regiments.",
+	"selectedWeaponHardPoints": [
+		"Torso_Right_AH1_antimissilesystem",
+		"Torso_Left_EH1_mediumlaser",
+		"Torso_Center_EH1_mediumlaser",
+		"Torso_Center_EH2_mediumlaser",
+		"Torso_Right_EH1_mediumlaser",
+		"Upperarm_Right_MH1_lrm15",
+		"Upperarm_Left_MH1_lrm15"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "Equipment.JumpJets.Class3"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 0,
+					"LeftTorso": 9,
+					"LeftArm": 7,
+					"LeftLeg": 2,
+					"RightTorso": 9,
+					"RightArm": 7,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:JumpJetClass3_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 0,
+					"LeftTorso": 2,
+					"RightTorso": 2,
+					"LeftArm": 0,
+					"RightArm": 0,
+					"LeftLeg": 0,
+					"RightLeg": 0
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 260,
+	"bXLEngine": false,
+	"baseChassisCost": 4324924,
+	"salvageShareCost": 19,
+	"bIsHeroMech": false
+}

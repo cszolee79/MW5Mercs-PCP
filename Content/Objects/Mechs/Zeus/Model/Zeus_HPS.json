@@ -133,6 +133,39 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Left_EH3_mediumlaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_HPPC.Weapon_Mech_ZEU_Torso_Left_EH3_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_PPC.Weapon_Mech_ZEU_Torso_Left_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_PPC.Weapon_Mech_ZEU_Torso_Left_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_SNPPC.Weapon_Mech_ZEU_Torso_Left_EH3_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_LPPC.Weapon_Mech_ZEU_Torso_Left_EH3_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Flamer.Weapon_Mech_ZEU_Torso_Left_EH3_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_SNPPC.Weapon_Mech_ZEU_Torso_Left_EH3_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_EH3_Laser.Weapon_Mech_ZEU_Torso_Left_EH3_Laser_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Torso_Center_EH1_mediumlaser",
 			"mechSkeletonSocketId": "Torso_Weapon",
 			"mechPart": "CenterTorso",
@@ -390,6 +423,37 @@
 				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH1_MG.Weapon_Mech_ZEU_Forearm_Left_BH1_MG_C",
 				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH1_LMG.Weapon_Mech_ZEU_Forearm_Left_BH1_LMG_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH1_AC5.Weapon_Mech_ZEU_Forearm_Left_BH1_AC5_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_BH2_autocannon5",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:AC5_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC5\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_AC5.Weapon_Mech_ZEU_Forearm_Left_BH2_AC5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.Gauss\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_Gauss.Weapon_Mech_ZEU_Forearm_Left_BH2_Gauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC10\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_UAC10.Weapon_Mech_ZEU_Forearm_Left_BH2_UAC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC10\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_AC10.Weapon_Mech_ZEU_Forearm_Left_BH2_AC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX10\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_LBX10.Weapon_Mech_ZEU_Forearm_Left_BH2_LBX10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC5\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_RAC5.Weapon_Mech_ZEU_Forearm_Left_BH2_RAC5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.LightGauss\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_Lgauss.Weapon_Mech_ZEU_Forearm_Left_BH2_Lgauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC5\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_UAC5.Weapon_Mech_ZEU_Forearm_Left_BH2_UAC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX5\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_LBX5.Weapon_Mech_ZEU_Forearm_Left_BH2_LBX5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX2\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_LBX2.Weapon_Mech_ZEU_Forearm_Left_BH2_LBX2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC2\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_RAC2.Weapon_Mech_ZEU_Forearm_Left_BH2_RAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC2\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_UAC2.Weapon_Mech_ZEU_Forearm_Left_BH2_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC2\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_AC2.Weapon_Mech_ZEU_Forearm_Left_BH2_AC2_C",
+				"(TagName=\"Weapon.Ballistic.MG.HeavyMachineGun\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_HMG.Weapon_Mech_ZEU_Forearm_Left_BH2_HMG_C",
+				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_MG.Weapon_Mech_ZEU_Forearm_Left_BH2_MG_C",
+				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_LMG.Weapon_Mech_ZEU_Forearm_Left_BH2_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Forearm_Left_BH2_AC5.Weapon_Mech_ZEU_Forearm_Left_BH2_AC5_C",
 				"()": "None"
 			}
 		},
@@ -775,7 +839,7 @@
 			"hardpointVisuals":
 			{
 				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Right_AH1_AMS.Weapon_Mech_ZEU_Torso_Right_AH1_AMS_C",
-				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Left_AH1_LAMS.Weapon_Mech_ZEU_Torso_Left_AH1_AMS_C",
+				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Right_AH1_LAMS.Weapon_Mech_ZEU_Torso_Right_AH1_AMS_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Zeus/Model/Weapons/Weapon_Mech_ZEU_Torso_Right_AH1_AMS_C.Weapon_Mech_ZEU_Torso_Right_AH1_AMS_C",
 				"()": "None"
 			}

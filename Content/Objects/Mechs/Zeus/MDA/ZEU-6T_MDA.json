@@ -1,0 +1,116 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Zeus/Model/Zeus_MDL.Zeus_MDL'",
+	"mechStats":
+	{
+		"keyName": "ZEU-6T",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "ZEU-6T",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Zeus.ZEU-6T"
+	},
+	"chassisFullName": "Zeus",
+	"variantName": "ZEU-6T",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:ZEU-6T_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Zeus_Icon_UIX.Zeus_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Zeus/Target/Zeus_Target.Zeus_Target_C",
+	"description": "With the collapse of the Star League in 2781 the stability of the past two centuries disappeared with it, and the status quo started to change dramatically. Seeking to prepare for this new political reality, the Lyran Commonwealth began work on a new assault ’Mech to bolster its forces. The first Zeus walked off the line in 2787, just in time for the outbreak of the First Succession War. Excellent heat dissipation and a variety of long-range weapons have ensured its presence in Lyran units ever since.",
+	"selectedWeaponHardPoints": [
+		"Torso_Left_EH1_largelaser",
+		"Torso_Left_EH2_mediumlaser",
+		"Torso_Center_EH1_mediumlaser",
+		"Forearm_Right_MH1_lrm15",
+		"Forearm_Left_EH1_ppc",
+		"Torso_Left_EH3_mediumlaser",
+		"RightTorso_AH1_AMS_antimissilesystem",
+		"Forearm_Right_MH2_lrm15",
+		"Forearm_Right_MH3_srm6"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 1,
+					"LeftTorso": 8,
+					"LeftArm": 7,
+					"LeftLeg": 2,
+					"RightTorso": 11,
+					"RightArm": 1,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 2
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 320,
+	"bXLEngine": false,
+	"baseChassisCost": 6459599,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

@@ -303,6 +303,70 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Left_MH1_smallmissile",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:SRM4_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile2.Weapon_Mech_MAD_Torso_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile20.Weapon_Mech_MAD_Torso_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile20.Weapon_Mech_MAD_Torso_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile20.Weapon_Mech_MAD_Torso_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile15.Weapon_Mech_MAD_Torso_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile15.Weapon_Mech_MAD_Torso_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile10.Weapon_Mech_MAD_Torso_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile10.Weapon_Mech_MAD_Torso_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile6.Weapon_Mech_MAD_Torso_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile6.Weapon_Mech_MAD_Torso_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Narc.Weapon_Mech_MAD_Torso_Left_MH1_Narc_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile5.Weapon_Mech_MAD_Torso_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile5.Weapon_Mech_MAD_Torso_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile4.Weapon_Mech_MAD_Torso_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile4.Weapon_Mech_MAD_Torso_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile2.Weapon_Mech_MAD_Torso_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile2.Weapon_Mech_MAD_Torso_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH1_Missile2.Weapon_Mech_MAD_Torso_Left_MH1_Missile2_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Left_MH2_smallmissile",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:SRM4_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile2.Weapon_Mech_MAD_Torso_Left_MH2_Missile2_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile20.Weapon_Mech_MAD_Torso_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile20.Weapon_Mech_MAD_Torso_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile20.Weapon_Mech_MAD_Torso_Left_MH2_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile15.Weapon_Mech_MAD_Torso_Left_MH2_Missile15_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile15.Weapon_Mech_MAD_Torso_Left_MH2_Missile15_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile10.Weapon_Mech_MAD_Torso_Left_MH2_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile10.Weapon_Mech_MAD_Torso_Left_MH2_Missile10_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile6.Weapon_Mech_MAD_Torso_Left_MH2_Missile6_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile6.Weapon_Mech_MAD_Torso_Left_MH2_Missile6_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Narc.Weapon_Mech_MAD_Torso_Left_MH2_Narc_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile5.Weapon_Mech_MAD_Torso_Left_MH2_Missile5_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile5.Weapon_Mech_MAD_Torso_Left_MH2_Missile5_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile4.Weapon_Mech_MAD_Torso_Left_MH2_Missile4_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile4.Weapon_Mech_MAD_Torso_Left_MH2_Missile4_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile2.Weapon_Mech_MAD_Torso_Left_MH2_Missile2_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile2.Weapon_Mech_MAD_Torso_Left_MH2_Missile2_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Marauder/Model/Weapons/Weapon_Mech_MAD_Torso_Left_MH2_Missile2.Weapon_Mech_MAD_Torso_Left_MH2_Missile2_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Torso_Right_EH1_largepulselaser",
 			"mechSkeletonSocketId": "Torso_Weapon",
 			"mechPart": "RightTorso",

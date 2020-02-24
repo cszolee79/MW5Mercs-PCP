@@ -1,0 +1,111 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Stalker/Model/Stalker_MDL.Stalker_MDL'",
+	"mechStats":
+	{
+		"keyName": "STK-3FB",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "STK-3FB",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"chassisFullName": "Stalker",
+	"variantName": "STK-3FB",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:STK-3FB_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Stalker_Icon_UIX.Stalker_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Stalker/Target/Stalker_Target.Stalker_Target_C",
+	"selectedWeaponHardPoints": [
+		"Torso_Left_EH1_erlargelaser",
+		"Torso_Right_EH1_erlargelaser",
+		"Forearm_Right_MH1_lrm15_artemis",
+		"Forearm_Right_EH1_mediumlaser",
+		"Forearm_Right_EH2_mediumlaser",
+		"Forearm_Left_MH1_lrm15_artemis",
+		"Forearm_Left_EH1_mediumlaser",
+		"Forearm_Left_EH2_mediumlaser"
+	],
+	"blankWeaponHardPoints": [
+		"Torso_Left_MB1_blank",
+		"Torso_Right_MB1_blank"
+	],
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Double"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 1,
+					"LeftTorso": 10,
+					"RightTorso": 10,
+					"LeftArm": 5,
+					"RightArm": 5,
+					"LeftLeg": 2,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:ECM_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 1,
+					"LeftTorso": 0,
+					"RightTorso": 0,
+					"LeftArm": 0,
+					"RightArm": 0,
+					"LeftLeg": 0,
+					"RightLeg": 0
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 255,
+	"bXLEngine": false,
+	"baseChassisCost": 5745175
+}

@@ -1,0 +1,117 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Centurion/Model/Centurion_MDL.Centurion_MDL'",
+	"mechStats":
+	{
+		"keyName": "CN9-D",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "CN9-D",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Medium.Centurion.CN9-D"
+	},
+	"chassisFullName": "Centurion",
+	"variantName": "CN9-D",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:CN9-D_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Centurion_Icon_UIX.Centurion_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Centurion/Target/Centurion_Target.Centurion_Target_C",
+	"description": "Produced initially from 2801 until the main plant on Ramen II was destroyed in 2845, the Centurion was designed and built by Corean Enterprises as an operating partner for the already successful Trebuchet. After supplying a steady stream of spare parts to AFFS line units for nearly 150 years, and buoyed by the success and warm reception of the design as a whole, Corean built a secondary manufacturing facility on New Avalon in 3012. The Centurion represents a well-rounded combat platform in its tonnage range and is known for making slow, steady advances while being tough enough to absorb considerable punishment.",
+	"selectedWeaponHardPoints": [
+		"Torso_Right_AH1_antimissilesystem",
+		"Torso_Left_MH1_lrm10_artemis",
+		"Torso_Left_MH2_lrm10",
+		"Torso_Center_EH1_mediumlaser",
+		"Torso_Center_EH2_mediumlaser",
+		"Forearm_Right_BH1_lbxautocannon10",
+		"Forearm_Right_BH2_mediumballistic"
+	],
+	"blankWeaponHardPoints": [
+		"Torso_Left_MB1_blank"
+	],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:EndoSteelStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 0,
+					"LeftTorso": 5,
+					"LeftArm": 8,
+					"LeftLeg": 2,
+					"RightTorso": 8,
+					"RightArm": 1,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 2
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 300,
+	"bXLEngine": true,
+	"baseChassisCost": 8226000,
+	"salvageShareCost": 13,
+	"bIsHeroMech": false
+}
