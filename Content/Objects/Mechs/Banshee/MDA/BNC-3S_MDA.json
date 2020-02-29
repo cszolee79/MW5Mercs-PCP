@@ -1,0 +1,121 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Banshee/Model/Banshee_MDL.Banshee_MDL'",
+	"mechStats":
+	{
+		"keyName": "BNC-3S",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "BNC-3S",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Banshee.BNC-3S"
+	},
+	"chassisFullName": "Banshee",
+	"variantName": "BNC-3S",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:BNC-3S_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Banshee_Icon_UIX.Banshee_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Banshee/Target/Banshee_Target.Banshee_Target_C",
+	"description": "First fielded by the Terran Hegemony in the mid-25th century, the Banshee was originally intended to fulfill a close-combat role. However, poor performance on the battlefield relegated it to militia and training commands throughout the Inner Sphere. It was only until the start of the Third Succession War that necessity brought the chassis back into active service. Despite its shaky beginnings, the Banshee is respectably regarded as an effective direct-fire slugger capable of outmaneuvering many other 'Mechs in its class.",
+	"selectedWeaponHardPoints": [
+		"Head_EH1_Laser_smalllaser",
+		"Torso_Left_BH1_autocannon10",
+		"Torso_Right_EH1_ppc",
+		"Torso_Right_EH2_mediumlaser",
+		"Torso_Right_EH3_mediumlaser",
+		"Torso_Right_EH4_mediumlaser",
+		"Torso_Right_EH5_mediumlaser",
+		"Torso_Right_MH1_srm6",
+		"Forearm_Left_EH1_ppc",
+		"Torso_Center_AH1_AMS_antimissilesystem",
+		"Torso_Center_EH1_smalllaser"
+	],
+	"blankWeaponHardPoints": [
+		"Forearm_Left_EB1_blank"
+	],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 0,
+					"LeftTorso": 8,
+					"LeftArm": 7,
+					"LeftLeg": 2,
+					"RightTorso": 4,
+					"RightArm": 8,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"RightArm_HandActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 285,
+	"bXLEngine": false,
+	"baseChassisCost": 6777420,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

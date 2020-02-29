@@ -1,0 +1,561 @@
+{
+	"mechDataAssetId":
+	{
+		"id": "MWMechDataAsset:HGN-BP_MDA"
+	},
+	"customName": "",
+	"skinCustomization":
+	{
+		"mechSkinAssetId":
+		{
+			"id": "MWUnitSkinAsset:Highlander_Buccaneer_SKN"
+		},
+		"bPrimaryColorSet": true,
+		"primaryColor":
+		{
+			"r": 0,
+			"g": 0,
+			"b": 0,
+			"a": 1
+		},
+		"bSecondaryColorSet": true,
+		"secondaryColor":
+		{
+			"r": 0.29177099466323853,
+			"g": 0.0091340001672506332,
+			"b": 0.011611999943852425,
+			"a": 1
+		},
+		"bTertiaryColorSet": true,
+		"tertiaryColor":
+		{
+			"r": 0.49693301320075989,
+			"g": 0.20863699913024902,
+			"b": 0,
+			"a": 1
+		}
+	},
+	"currentStructure":
+	{
+		"head": 15,
+		"centerTorso": 58,
+		"leftTorso": 38,
+		"rightTorso": 38,
+		"leftArm": 30,
+		"rightArm": 30,
+		"leftLeg": 38,
+		"rightLeg": 38
+	},
+	"currentArmor":
+	{
+		"head": 18,
+		"centerTorso": 80,
+		"leftTorso": 56,
+		"rightTorso": 56,
+		"leftArm": 60,
+		"rightArm": 60,
+		"leftLeg": 70,
+		"rightLeg": 70
+	},
+	"currentRearArmor":
+	{
+		"centerTorsoRear": 27,
+		"leftTorsoRear": 20,
+		"rightTorsoRear": 20
+	},
+	"installedArmor":
+	{
+		"head": 18,
+		"centerTorso": 80,
+		"leftTorso": 56,
+		"rightTorso": 56,
+		"leftArm": 60,
+		"rightArm": 60,
+		"leftLeg": 70,
+		"rightLeg": 70
+	},
+	"installedRearArmor":
+	{
+		"centerTorsoRear": 27,
+		"leftTorsoRear": 20,
+		"rightTorsoRear": 20
+	},
+	"installedWeapons": [
+		{
+			"hardpointSlotId": "Torso_Left_AH1_antimissilesystem",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWAMSWeaponDataAsset:AntiMissileSystem"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Left_MH1_lrm20",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWMissileWeaponDataAsset:Lrm20"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Left_MH2_srm6",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWMissileWeaponDataAsset:Srm6"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_EH1_mediumlaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:Mediumlaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_EH2_mediumlaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:Mediumlaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_EH3_mediumlaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:Mediumlaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Right_EH1_largelaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:MediumLaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Right_EH2_largelaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:MediumLaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Right_EH3_mediumlaser",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:MediumLaser"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_VEBH1_eblargevariable",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWProjectileWeaponDataAsset:GaussRifle"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_VEBH2_eblargevariable",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": ""
+				},
+				"healthState": "Healthy"
+			}
+		}
+	],
+	"weaponGroupInfo":
+	{
+		"weaponGroups": [
+			{
+				"hardpointSlotId": "Torso_Left_MH1_lrm20",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": true,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Torso_Left_MH2_srm6",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": true,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Forearm_Left_EH1_mediumlaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Forearm_Left_EH2_mediumlaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Forearm_Left_EH3_mediumlaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Torso_Left_AH1_antimissilesystem",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": true
+			},
+			{
+				"hardpointSlotId": "Torso_Right_EH1_largelaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Torso_Right_EH2_largelaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Torso_Right_EH3_mediumlaser",
+				"bWeaponGroup1": true,
+				"bWeaponGroup2": false,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Forearm_Right_VEBH1_eblargevariable",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": true,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
+				"hardpointSlotId": "Forearm_Right_VEBH2_eblargevariable",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": true,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": false,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			}
+		],
+		"chainFireGroups": []
+	},
+	"equipment":
+	{
+		"mechPartEquipment": [
+			{
+				"mechPart": "CenterTorso",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWHeatSinkDataAsset:DoubleHeatSink"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 1,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWHeatSinkDataAsset:DoubleHeatSink"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 2,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:Gauss_Standard_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "LeftTorso",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:LRM_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 1,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:SRM_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 2,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:JumpJetClass1_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWJumpJetDataAsset:JumpJet_Class1_Equipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "RightTorso",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWHeatSinkDataAsset:DoubleHeatSink"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 1,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:JumpJetClass1_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWJumpJetDataAsset:JumpJet_Class1_Equipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "LeftLeg",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:Lrm_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 1,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:Srm_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "RightLeg",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:Gauss_Standard_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					},
+					{
+						"slotId": 1,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:Gauss_Standard_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "Head",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWAmmoDataAsset:AMS_AmmoEquipment"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			},
+			{
+				"mechPart": "LeftArm",
+				"slottedEquipment": [
+					{
+						"slotId": 0,
+						"slotTypeAssetId":
+						{
+							"id": "MWSlotTypeDataAsset:General_SlotType"
+						},
+						"equipmentData":
+						{
+							"equipmentId":
+							{
+								"id": "MWHeatSinkDataAsset:DoubleHeatSink"
+							},
+							"healthState": "Healthy"
+						}
+					}
+				]
+			}
+		]
+	}
+}

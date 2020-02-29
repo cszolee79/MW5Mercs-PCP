@@ -1,0 +1,106 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Awesome/Model/Awesome_MDL.Awesome_MDL'",
+	"mechStats":
+	{
+		"keyName": "AWS-8Q",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "AWS-8Q",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Awesome.AWS-8Q"
+	},
+	"chassisFullName": "Awesome",
+	"variantName": "AWS-8Q",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:AWS-8Q_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Awesome_Icon_UIX.Awesome_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Awesome/Target/Awesome_Target.Awesome_Target_C",
+	"description": "Originally built for the Star League in 2665, the Awesome's design was based on the aging STR-2C Striker 'Mech. While not as swift as its ancestor, it is not uncommon for BattleMechs to retire the field outright rather than face a formation of Awesome's. It excels at heavy engagements and is often tasked with securing the most critical objectives, or at least with guarding such objectives from the enemy.",
+	"selectedWeaponHardPoints": [
+		"Torso_Right_AH1_AMS_antimissilesystem",
+		"Head_EH1_Laser_smalllaser",
+		"Torso_Left_EH1_ppc",
+		"Torso_Left_EH2_ppc",
+		"Torso_Right_EH1_ppc",
+		"Torso_Right_EH2_ppc",
+		"Forearm_Right_EH1_ppc",
+		"Forearm_Right_EH2_ppc"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 2,
+					"LeftTorso": 8,
+					"LeftArm": 8,
+					"LeftLeg": 2,
+					"RightTorso": 7,
+					"RightArm": 5,
+					"RightLeg": 2
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 240,
+	"bXLEngine": false,
+	"baseChassisCost": 5163120,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

@@ -1,0 +1,376 @@
+{
+	"supportedMechs":
+	{
+		"gameplayTags": [
+			{
+				"tagName": "Mech.Heavy.Archer.ARC-2R"
+			}
+		]
+	},
+	"supportedUnit":
+	{
+		"unitType":
+		{
+			"tagName": "UnitType.Mech"
+		}
+	},
+	"paintTheme":
+	{
+		"tagName": "PaintTheme.Kellshounds"
+	},
+	"mechMaterialInstances": [
+		{
+			"materialSlotName": "Body",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_MTI.Archer_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Applejack_MSK.Archer_Body_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Wear_MSK.Archer_Body_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_NRM.Archer_Body_NRM"
+					},
+					{
+						"parameterName": "EmissiveMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_EMS.Archer_Body_EMS"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Variant",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_MTI.Archer_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Applejack_MSK.Archer_Variant_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Wear_MSK.Archer_Variant_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_NRM.Archer_Variant_NRM"
+					},
+					{
+						"parameterName": "EmissiveMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_EMS.Archer_Variant_EMS"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Window",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Window_MTI.Archer_Window_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Body_LOD",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_LOD.Archer_LOD",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Applejack_MSK.Archer_Body_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Wear_MSK.Archer_Body_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_NRM.Archer_Body_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Variant_LOD",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_LOD.Archer_LOD",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Applejack_MSK.Archer_Variant_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Wear_MSK.Archer_Variant_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_NRM.Archer_Variant_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Weapons",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/Weapons_Generic_MTI.Weapons_Generic_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Weapons_LOD",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/Weapons_Generic_LOD_MTI.Weapons_Generic_LOD_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "MissileHead",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/MissileHead_MTI.MissileHead_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "MissileHead_LOD",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/MissileHead_LOD_MTI.MissileHead_LOD_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		}
+	],
+	"mechDestroyedMaterialInstances": [
+		{
+			"materialSlotName": "Body",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Destroyed_MTI.Archer_Destroyed_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Applejack_MSK.Archer_Body_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Wear_MSK.Archer_Body_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_NRM.Archer_Body_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Variant",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Destroyed_MTI.Archer_Destroyed_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Applejack_MSK.Archer_Variant_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Wear_MSK.Archer_Variant_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_NRM.Archer_Variant_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Window",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Window_Destroyed_MTI.Archer_Window_Destroyed_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Body_LOD",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Destroyed_LOD.Archer_Destroyed_LOD",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Applejack_MSK.Archer_Body_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_Wear_MSK.Archer_Body_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Body_NRM.Archer_Body_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Variant_LOD",
+			"materialInstance": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Archer_Destroyed_LOD.Archer_Destroyed_LOD",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": [
+					{
+						"parameterName": "RGBPaintMask",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Applejack_MSK.Archer_Variant_Applejack_MSK"
+					},
+					{
+						"parameterName": "(R)Scratch(R)(G)Dirt(G)(B)Grime(B)",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_Wear_MSK.Archer_Variant_Wear_MSK"
+					},
+					{
+						"parameterName": "NormalMap",
+						"value": "/Game/Objects/Mechs/Archer/Model/Body/Materials/Textures/Archer_Variant_NRM.Archer_Variant_NRM"
+					}
+				]
+			}
+		},
+		{
+			"materialSlotName": "Weapons",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/Weapons_Generic_MTI.Weapons_Generic_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Weapons_LOD",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/Weapons_Generic_LOD_MTI.Weapons_Generic_LOD_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "MissileHead",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/MissileHead_MTI.MissileHead_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "MissileHead_LOD",
+			"materialInstance": "/Game/Objects/Weapons/_common/Material/MissileHead_LOD_MTI.MissileHead_LOD_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Damage",
+			"materialInstance": "/Game/Objects/Mechs/_common/Material/MechGreebles_Destroyed_MTI.MechGreebles_Destroyed_MTI",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		},
+		{
+			"materialSlotName": "Damage_LOD",
+			"materialInstance": "/Game/Objects/Mechs/_common/Material/MechGreebles_Destroyed_LOD.MechGreebles_Destroyed_LOD",
+			"instanceSkinParameters":
+			{
+				"vectorParameters": [],
+				"scalarParameters": [],
+				"textureParameters": []
+			}
+		}
+	],
+	"defaultPrimaryColor":
+	{
+		"r": 0.13013599812984467,
+		"g": 0,
+		"b": 0.0012140000471845269,
+		"a": 1
+	},
+	"defaultSecondaryColor":
+	{
+		"r": 0.13013599812984467,
+		"g": 0,
+		"b": 0.0012140000471845269,
+		"a": 1
+	},
+	"defaultTertiaryColor":
+	{
+		"r": 0,
+		"g": 0,
+		"b": 0,
+		"a": 1
+	},
+	"globalSkinParameters":
+	{
+		"vectorParameters": [],
+		"scalarParameters": [],
+		"textureParameters": []
+	},
+	"skinName": "KELLSHOUNDS",
+	"frontendIcon": "/Game/UI/Textures/Factions/KellsHounds_Logo_Large.KellsHounds_Logo_Large",
+	"bShowInMarket": true,
+	"lockPrimaryColor": false,
+	"lockSecondaryColor": false,
+	"lockTertiaryColor": false,
+	"bPreorderSkin1": false,
+	"bPreorderSkin2": false,
+	"associatedDLC":
+	{
+		"tagName": "None"
+	}
+}

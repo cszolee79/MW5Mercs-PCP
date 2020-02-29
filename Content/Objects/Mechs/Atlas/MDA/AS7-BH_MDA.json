@@ -1,0 +1,122 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Atlas/Model/Atlas_MDL.Atlas_MDL'",
+	"mechStats":
+	{
+		"keyName": "AS7-BH",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "AS7-BH",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Atlas.AS7-BH"
+	},
+	"chassisFullName": "Atlas",
+	"variantName": "AS7-BH",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:AS7-BH_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Atlas_Icon_UIX.Atlas_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Atlas/Target/Atlas_Target.Atlas_Target_C",
+	"description": "When General Aleksandr Kerensky laid down the design specifications for the Atlas in 2755, he decreed it should be “a ’Mech as powerful as possible, as impenetrable as possible, and as ugly and foreboding as conceivable, so that fear itself will be our ally.\" The Atlas met those ambitions, and from its first deployments would grow a terrifying reputation. Heavily armored, heavily armed, and heavily feared, the Atlas is a lumbering monstrosity of firepower.",
+	"selectedWeaponHardPoints": [
+		"Torso_Left_MH1_lrm10",
+		"Torso_Right_BH1_autocannon10",
+		"Torso_Left_MH2_srm6",
+		"Clavicle_Left_AH1_antimissilesystem",
+		"Forearm_Right_EH1_largepulselaser",
+		"Forearm_Right_EH2_largepulselaser",
+		"Forearm_Right_EH3_largepulselaser",
+		"Forearm_Left_EH1_largepulselaser",
+		"Forearm_Left_EH2_largepulselaser",
+		"Forearm_Left_EH3_largepulselaser"
+	],
+	"blankWeaponHardPoints": [
+		"Torso_Center_EB1_blank",
+		"Torso_Center_EB2_blank"
+	],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:EndoSteelStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 2,
+					"LeftTorso": 5,
+					"LeftArm": 1,
+					"LeftLeg": 2,
+					"RightTorso": 5,
+					"RightArm": 2,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 6
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"RightArm_HandActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 400,
+	"bXLEngine": true,
+	"baseChassisCost": 25585332,
+	"salvageShareCost": 26,
+	"bIsHeroMech": true
+}

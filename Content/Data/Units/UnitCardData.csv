@@ -18,10 +18,13 @@ ASN-31_UnitCard,Assassin,ASN-31,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,
 ASN-DD_UnitCard,Assassin,ASN-DD,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3038,1044,Unit.Role.Scout,,5,4,Unique,,,,,,,,,,,,,
 AS7-BH_UnitCard,Atlas,AS7-BH,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3024,1717,Unit.Role.Juggernaut,,54,10,Unique,,,,,,,,,,,,,
 AS7-D_UnitCard,Atlas,AS7-D,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2755,1897,Unit.Role.Juggernaut,,61,9,,Common,Uncommon,Uncommon,Uncommon,VeryRare,Uncommon,Common,Uncommon,VeryRare,VeryRare,VeryRare,Uncommon,Uncommon
+AS7-D-DC_UnitCard,Atlas,AS7-D-DC,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3024,1897,Unit.Role.Juggernaut,,61,9,,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,VeryRare,,,,,VeryRare
 AS7-K_UnitCard,Atlas,AS7-K,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,2175,Unit.Role.Sniper,,72,9,,Uncommon,,Uncommon,Common,VeryRare,VeryRare,,VeryRare,,,,Rare,
 AS7-T_UnitCard,Atlas,AS7-T,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3009,2175,Unit.Role.Brawler,,72,9,Unique,,,,,,,,,,,,,
 AS7-T2_UnitCard,Atlas,AS7-T2,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3009,2175,Unit.Role.Brawler,,72,9,Unique,,,,,,,,,,,,,
+AS7-TR_UnitCard,Atlas,AS7-TR,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3049,2600,Unit.Role.Juggernaut,,85,1,Unique,,,,,,,,,,,,,
 AS7-KR_UnitCard,Atlas,AS7-KR,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3049,2208,Unit.Role.Sniper,,73,10,Unique,,,,,,,,,,,,,
+AS7-S_UnitCard,Atlas,AS7-S,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3049,2208,Unit.Role.Brawler,,73,10,,Uncommon,Uncommon,Uncommon,,VeryRare,VeryRare,Uncommon,,,,,Rare,Uncommon
 AS7-RS_UnitCard,Atlas,AS7-RS,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2892,1849,Unit.Role.Juggernaut,,60,9,,,Uncommon,Rare,Rare,VeryRare,VeryRare,VeryRare,Rare,VeryRare,VeryRare,VeryRare,Rare,Rare
 AWS-8Q_UnitCard,Awesome,AWS-8Q,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2665,1605,Unit.Role.Sniper,,50,7,,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Common,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
 AWS-8R_UnitCard,Awesome,AWS-8R,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2683,1470,Unit.Role.MissileBoat,,45,8,,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Common,Uncommon,,,,Uncommon,VeryRare,Uncommon
@@ -38,7 +41,9 @@ BLR-1D_UnitCard,BattleMaster,BLR-1D,UnitType.Mech.Assault,Unit.Usage.Market,1/1/
 BLR-1G_UnitCard,BattleMaster,BLR-1G,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2633,1519,Unit.Role.Brawler,,47,8,,Common,Rare,Uncommon,Common,Uncommon,Common,Common,Rare,Rare,Rare,Rare,Uncommon,Uncommon
 BLR-1GHE_UnitCard,BattleMaster,BLR-1GHE,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/2750,1764,Unit.Role.Brawler,,56,9,Unique,,,,,,,,,,,,,
 BLR-1S_UnitCard,BattleMaster,BLR-1S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3025,1507,Unit.Role.Brawler,,46,9,,,,,,,,Uncommon,,,,,,Rare
+BLR-2C_UnitCard,BattleMaster,BLR-2C,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3025,1507,Unit.Role.Brawler,,46,9,,,,,,,,Uncommon,,,,,,Rare
 BLR-3M_UnitCard,BattleMaster,BLR-3M,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,1679,Unit.Role.Brawler,,53,10,,Uncommon,VeryRare,Rare,VeryRare,Rare,Uncommon,Uncommon,VeryRare,Rare,Rare,Rare,Rare,Rare
+BLR-3S_UnitCard,BattleMaster,BLR-3S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,1679,Unit.Role.Brawler,,53,10,,Uncommon,VeryRare,Rare,VeryRare,Rare,Uncommon,Uncommon,VeryRare,Rare,Rare,Rare,Rare,Rare
 BJ-1_UnitCard,Blackjack,BJ-1,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2757,949,Unit.Role.Sniper,,5,3,,Rare,Common,Rare,Rare,VeryCommon,VeryRare,Rare,Uncommon,Uncommon,Rare,Uncommon,Uncommon,Uncommon
 BJ-1DC_UnitCard,Blackjack,BJ-1DC,UnitType.Mech.Medium,Unit.Usage.Market,1/1/3024,917,Unit.Role.Brawler,,5,3,,,Uncommon,,,,,,,,,,,Rare
 BJ-1X_UnitCard,Blackjack,BJ-1X,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2756,964,Unit.Role.Skirmisher,,5,3,Extinct by 2781,,,,,,,,,,,,,
@@ -124,6 +129,7 @@ HGN-733_UnitCard,Highlander,HGN-733,UnitType.Mech.Assault,Unit.Usage.Market,1/1/
 HGN-733C_UnitCard,Highlander,HGN-733C,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2866,1857,Unit.Role.Juggernaut,,60,9,,,,,,Rare,,Rare,,,,Rare,,Rare
 HGN-733P_UnitCard,Highlander,HGN-733P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/2866,1865,Unit.Role.Sniper,,60,9,,,,,,Rare,,Rare,,,,Rare,,Rare
 HGN-HM_UnitCard,Highlander,HGN-HM,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3017,2065,Unit.Role.Sniper,,68,9,Unique,,,,,,,,,,,,,
+HGN-BP_UnitCard,Highlander,HGN-BP,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3017,2065,Unit.Role.Sniper,,68,9,Unique,,,,,,,,,,,,,
 HGN-LV_UnitCard,Highlander,HGN-LV,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3017,2065,Unit.Role.Sniper,,68,9,Unique,,,,,,,,,,,,,
 HBK-4G_UnitCard,Hunchback,HBK-4G,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2572,1041,Unit.Role.Juggernaut,,7,4,,Common,Uncommon,Uncommon,Uncommon,VeryCommon,VeryCommon,Uncommon,Common,Uncommon,Uncommon,Common,Common,Uncommon
 HBK-4H_UnitCard,Hunchback,HBK-4H,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2819,1067,Unit.Role.Juggernaut,,11,4,,,Rare,Rare,Rare,Uncommon,Common,Uncommon,Common,Uncommon,Uncommon,Rare,Rare,Uncommon
@@ -174,8 +180,10 @@ MissileCarrier_SRM20_UnitCard,MissileCarrier_SRM20,MissileCarrier_SRM20,UnitType
 MissileCarrier_SRM40_UnitCard,MissileCarrier_SRM40,MissileCarrier_SRM40,UnitType.Vehicle.Tracked.Tank,,1/1/2407,544,Unit.Role.Striker,,0,3,Tank,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common
 MissileCarrier_SRM60_UnitCard,MissileCarrier_SRM60,MissileCarrier_SRM60,UnitType.Vehicle.Tracked.Tank,,1/1/2407,716,Unit.Role.Striker,,0,3,Tank,Uncommon,Uncommon,Uncommon,Uncommon`,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
 Manticore_UnitCard,Manticore,Manticore,UnitType.Vehicle.Tracked.Tank,,1/1/2668,425,Unit.Role.Brawler,,10,3,Tank,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common
-NSR-9J_UnitCard,Nightstar,NSR-9J,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,
-NSR-9P_UnitCard,Nightstar,NSR-9P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3039,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,
+NSR-9J_UnitCard,Nightstar,NSR-9J,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,VeryRare
+NSR-9S_UnitCard,Nightstar,NSR-9S,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3049,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,VeryRare
+NSR-9P_UnitCard,Nightstar,NSR-9P,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3039,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,VeryRare
+NSR-9FC_UnitCard,Nightstar,NSR-FC,UnitType.Mech.Assault,Unit.Usage.Market,1/1/3039,2399,Unit.Role.Juggernaut,,80,10,,Rare,,,,,,,,,,,,VeryRare
 NSR-WP_UnitCard,Nightstar,NSR-WP,UnitType.Mech.Assault,Unit.Usage.Unique,1/1/3039,2399,Unit.Role.Brawler,,80,10,Unique,,,,,,,,,,,,,
 ON1-K_UnitCard,Orion,ON1-K,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2525,1429,Unit.Role.Brawler,,44,10,,Uncommon,Uncommon,Rare,Uncommon,Uncommon,VeryCommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
 ON1-M_UnitCard,Orion,ON1-M,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1414,Unit.Role.Brawler,,43,7,,,Rare,Rare,Rare,Rare,Common,Uncommon,Rare,Rare,Rare,Uncommon,Rare,Uncommon
@@ -226,6 +234,7 @@ TDR-5S_UnitCard,Thunderbolt,TDR-5S,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/250
 TDR-5S-T_UnitCard,Thunderbolt,TDR-5S-T,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3025,1447,Unit.Role.Brawler,,44,7,Unique,,,,,,,,,,,,,
 TDR-5SS_UnitCard,Thunderbolt,TDR-5SS,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2930,1337,Unit.Role.Brawler,,40,6,,,,,,,,Common,Uncommon,,,,,Uncommon
 TDR-9SE_UnitCard,Thunderbolt,TDR-9SE,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1439,Unit.Role.Skirmisher,,44,6,,,Uncommon,,,,,Common,Rare,,,,Rare,Uncommon
+TDR-9S_UnitCard,Thunderbolt,TDR-9S,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/3049,1439,Unit.Role.Skirmisher,,44,6,,,Uncommon,,,,,Common,Rare,,,,Rare,Uncommon
 TBT-3C_UnitCard,Trebuchet,TBT-3C,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2780,1342,Unit.Role.MissileBoat,,20,4,,Common,,,,,,,,,,,Uncommon,
 TBT-5J_UnitCard,Trebuchet,TBT-5J,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2850,1191,Unit.Role.Skirmisher,,20,4,,,,,,,Common,,,,,,,
 TBT-5N_UnitCard,Trebuchet,TBT-5N,UnitType.Mech.Medium,Unit.Usage.Market,1/1/2799,1191,Unit.Role.MissileBoat,,20,4,,,Rare,Uncommon,Uncommon,Uncommon,VeryCommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon,Uncommon
@@ -268,6 +277,7 @@ VTOL_Igor_2x2AC2_UnitCard,VTOL_Igor_2x2AC2,VTOL_Igor_2x2AC2,UnitType.VTOL,,1/1/2
 VTOL_Warrior_UnitCard,VTOL_Warrior,VTOL_Warrior,UnitType.VTOL,,1/1/2957,148,Unit.Role.Scout,,0,1,VTOL,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common,Common
 WHM-6D_UnitCard,Warhammer,WHM-6D,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2835,1471,Unit.Role.Brawler,,40,7,,,Uncommon,,,,,,,,,,,Uncommon
 WHM-6R_UnitCard,Warhammer,WHM-6R,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2515,1299,Unit.Role.Brawler,,39,7,,Common,Common,Uncommon,Common,Common,Uncommon,VeryCommon,Uncommon,VeryRare,Rare,Uncommon,Uncommon,Common
+WHM-7S_UnitCard,Warhammer,WHM-7S,UnitType.Mech.Heavy,Unit.Usage.Market,1/1/2515,1299,Unit.Role.Brawler,,39,7,,Common,Common,Uncommon,Common,Common,Uncommon,VeryCommon,Uncommon,VeryRare,Rare,Uncommon,Uncommon,Common
 WHM-BW_UnitCard,Warhammer,WHM-BW,UnitType.Mech.Heavy,Unit.Usage.Unique,1/1/3024,1509,Unit.Role.Brawler,,40,8,Unique,,,,,,,,,,,,,
 WLF-1_UnitCard,Wolfhound,WLF-1,UnitType.Mech.Light,Unit.Usage.Market,1/1/3028,949,Unit.Role.Striker,,5,3,,,Rare,,,,,Common,Rare,,,,Rare,Uncommon
 WLF-1A_UnitCard,Wolfhound,WLF-1A,UnitType.Mech.Light,Unit.Usage.Market,1/1/3028,967,Unit.Role.Striker,,5,3,,,Rare,,,,,Common,Rare,,,,,Uncommon

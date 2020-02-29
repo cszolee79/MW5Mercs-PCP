@@ -128,7 +128,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:LargeLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -161,7 +161,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:LargeLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{

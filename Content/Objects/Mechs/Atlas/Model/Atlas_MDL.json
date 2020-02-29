@@ -1,0 +1,692 @@
+{
+	"body":
+	{
+		"skeletalMesh": "/Game/Objects/Mechs/Atlas/Model/Body/Atlas_SKM.Atlas_SKM",
+		"parentSocket": "None"
+	},
+	"firstPersonCockpit":
+	{
+		"mechCockpit": "/Game/Objects/Mechs/Atlas/Model/Cockpit/Atlas_Cockpit.Atlas_Cockpit_C",
+		"socket": "Cockpit"
+	},
+	"capsule": "/Game/Objects/Mechs/_common/HugeCapsule.HugeCapsule",
+	"mechDeathEffects":
+	{
+		"id": "MWMechDeathEffectsAsset:DefaultMechDeathEffects"
+	},
+	"weaponHardpointAsset":
+	{
+		"id": "MWMechHardpointAsset:Atlas_HPS"
+	},
+	"ragdoll": "/Game/Objects/Mechs/Atlas/Model/Body/Atlas_Ragdoll_PHY.Atlas_Ragdoll_PHY",
+	"mechDestructibleState":
+	{
+		"bonesToHide": "/Game/Objects/Mechs/_common/DefaultMechDestructionHierarchy.DefaultMechDestructionHierarchy",
+		"thirdPersonCockpitData":
+		{
+			"boneName": "Cockpit",
+			"initialStaticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_TP_Cockpit_DM0_STM.AS7_TP_Cockpit_DM0_STM",
+			"replacementStaticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_TP_Cockpit_DM1_STM.AS7_TP_Cockpit_DM1_STM"
+		},
+		"armorReplacements":
+		{
+			"head": [
+				{
+					"boneName": "Torso_Head_DM1",
+					"staticMesh": "None"
+				}
+			],
+			"centerTorso": [
+				{
+					"boneName": "Torso_Center_Front_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Center_Front_DM1_STM.AS7_Torso_Center_Front_DM1_STM"
+				},
+				{
+					"boneName": "Torso_Twist_DM1",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Pelvis_Center_Front_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Pelvis_Center_Front_DM1_STM.AS7_Pelvis_Center_Front_DM1_STM"
+				}
+			],
+			"rearCenterTorso": [
+				{
+					"boneName": "Torso_Center_Rear_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Center_Rear_DM1_STM.AS7_Torso_Center_Rear_DM1_STM"
+				},
+				{
+					"boneName": "Pelvis_Center_Rear_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Pelvis_Center_Rear_DM1_STM.AS7_Pelvis_Center_Rear_DM1_STM"
+				}
+			],
+			"leftTorso": [
+				{
+					"boneName": "Torso_Left_Front_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Left_Front_DM1_STM.AS7_Torso_Left_Front_DM1_STM"
+				}
+			],
+			"rearLeftTorso": [
+				{
+					"boneName": "Torso_Left_Rear_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Left_Rear_DM1_STM.AS7_Torso_Left_Rear_DM1_STM"
+				}
+			],
+			"rightTorso": [
+				{
+					"boneName": "Torso_Right_Front_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Right_Front_DM1_STM.AS7_Torso_Right_Front_DM1_STM"
+				}
+			],
+			"rearRightTorso": [
+				{
+					"boneName": "Torso_Right_Rear_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Right_Rear_DM1_STM.AS7_Torso_Right_Rear_DM1_STM"
+				}
+			],
+			"leftArm": [
+				{
+					"boneName": "Upperarm_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Upperarm_Left_DM1_STM.AS7_Upperarm_Left_DM1_STM"
+				},
+				{
+					"boneName": "Elbow_Left_DM1",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Forearm_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Forearm_Left_DM1_STM.AS7_Forearm_Left_DM1_STM"
+				},
+				{
+					"boneName": "Clavicle_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Clavicle_Left_DM1_STM.AS7_Clavicle_Left_DM1_STM"
+				}
+			],
+			"rightArm": [
+				{
+					"boneName": "Upperarm_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Upperarm_Right_DM1_STM.AS7_Upperarm_Right_DM1_STM"
+				},
+				{
+					"boneName": "Elbow_Right_DM1",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Forearm_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Forearm_Right_DM1_STM.AS7_Forearm_Right_DM1_STM"
+				},
+				{
+					"boneName": "Clavicle_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Clavicle_Right_DM1_STM.AS7_Clavicle_Right_DM1_STM"
+				}
+			],
+			"leftLeg": [
+				{
+					"boneName": "Thigh_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Left_DM1_STM.AS7_Thigh_Left_DM1_STM"
+				},
+				{
+					"boneName": "Calf_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Left_DM1_STM.AS7_Calf_Left_DM1_STM"
+				},
+				{
+					"boneName": "Knee_Left_DM1",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Foot0_Left_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Foot0_Left_DM1_STM.AS7_Foot0_Left_DM1_STM"
+				}
+			],
+			"rightLeg": [
+				{
+					"boneName": "Thigh_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Right_DM1_STM.AS7_Thigh_Right_DM1_STM"
+				},
+				{
+					"boneName": "Calf_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Right_DM1_STM.AS7_Calf_Right_DM1_STM"
+				},
+				{
+					"boneName": "Knee_Right_DM1",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Foot0_Right_DM1",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Foot0_Right_DM1_STM.AS7_Foot0_Right_DM1_STM"
+				}
+			]
+		},
+		"armorDebris":
+		{
+			"head":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Head",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"centerTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Center_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rearCenterTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Center_Rear",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Left_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rearLeftTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Left_Rear",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Right_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rearRightTorso":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Right_Rear",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftArm":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Upperarm_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Forearm_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightArm":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Upperarm_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Forearm_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftLeg":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Thigh_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Calf_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Foot0_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightLeg":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Thigh_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Calf_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Foot0_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM0-DM1_PCL.MechDamage_DM0-DM1_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			}
+		},
+		"partReplacements":
+		{
+			"head": [
+				{
+					"boneName": "Torso_Head",
+					"staticMesh": "None"
+				}
+			],
+			"centerTorso": [
+				{
+					"boneName": "Torso_Center_Front",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Center_Front_DM2_STM.AS7_Torso_Center_Front_DM2_STM"
+				},
+				{
+					"boneName": "Torso_Twist",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Torso_Center_Rear",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Center_Rear_DM2_STM.AS7_Torso_Center_Rear_DM2_STM"
+				},
+				{
+					"boneName": "Pelvis_Center_Front",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Pelvis_Center_Front_DM2_STM.AS7_Pelvis_Center_Front_DM2_STM"
+				},
+				{
+					"boneName": "Pelvis_Center_Rear",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Pelvis_Center_Rear_DM2_STM.AS7_Pelvis_Center_Rear_DM2_STM"
+				}
+			],
+			"leftTorso": [
+				{
+					"boneName": "Torso_Left_Front",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Left_Front_DM2_STM.AS7_Torso_Left_Front_DM2_STM"
+				},
+				{
+					"boneName": "Torso_Left_Rear",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Left_Rear_DM2_STM.AS7_Torso_Left_Rear_DM2_STM"
+				}
+			],
+			"rightTorso": [
+				{
+					"boneName": "Torso_Right_Front",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Right_Front_DM2_STM.AS7_Torso_Right_Front_DM2_STM"
+				},
+				{
+					"boneName": "Torso_Right_Rear",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Right_Rear_DM2_STM.AS7_Torso_Right_Rear_DM2_STM"
+				}
+			],
+			"leftArm": [
+				{
+					"boneName": "Clavicle_Left",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Clavicle_Left_DM1_STM.AS7_Clavicle_Left_DM1_STM"
+				}
+			],
+			"rightArm": [
+				{
+					"boneName": "Clavicle_Right",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Clavicle_Right_DM1_STM.AS7_Clavicle_Right_DM1_STM"
+				}
+			],
+			"leftLeg": [
+				{
+					"boneName": "Thigh_Left",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Left_DM2_STM.AS7_Thigh_Left_DM2_STM"
+				},
+				{
+					"boneName": "Knee_Left",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Calf_Left",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Left_DM2_STM.AS7_Calf_Left_DM2_STM"
+				},
+				{
+					"boneName": "Foot0_Left",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Foot0_Left_DM2_STM.AS7_Foot0_Left_DM2_STM"
+				}
+			],
+			"rightLeg": [
+				{
+					"boneName": "Thigh_Right",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Right_DM2_STM.AS7_Thigh_Right_DM2_STM"
+				},
+				{
+					"boneName": "Calf_Right",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Right_DM2_STM.AS7_Calf_Right_DM2_STM"
+				},
+				{
+					"boneName": "Knee_Right",
+					"staticMesh": "None"
+				},
+				{
+					"boneName": "Foot0_Right",
+					"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Foot0_Right_DM2_STM.AS7_Foot0_Right_DM2_STM"
+				}
+			]
+		},
+		"partDebris":
+		{
+			"head":
+			{
+				"debrisPieces": [],
+				"effects": [
+					{
+						"boneName": "Torso_Head",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"centerTorso":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Torso_Center_Front",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Center_Front_Debris_STM.AS7_Torso_Center_Front_Debris_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Torso_Center_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_CenterTorso_DM1-DM2_PCL.MechDamage_CenterTorso_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftTorso":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Torso_Left_Front",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Left_Front_Debris_STM.AS7_Torso_Left_Front_Debris_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Torso_Left_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightTorso":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Torso_Right_Front",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Torso_Right_Front_Debris_STM.AS7_Torso_Right_Front_Debris_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Torso_Right_Front",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftArm":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Upperarm_Left",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Upperarm_Left_DM1_STM.AS7_Upperarm_Left_DM1_STM"
+					},
+					{
+						"boneName": "Forearm_Left",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Forearm_Left_DM1_STM.AS7_Forearm_Left_DM1_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Clavicle_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Upperarm_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Forearm_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_Smokeless_DM1-DM2_PCL.MechDamage_Smokeless_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightArm":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Upperarm_Right",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Upperarm_Right_DM1_STM.AS7_Upperarm_Right_DM1_STM"
+					},
+					{
+						"boneName": "Forearm_Right",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Forearm_Right_DM1_STM.AS7_Forearm_Right_DM1_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Clavicle_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Upperarm_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Forearm_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_Smokeless_DM1-DM2_PCL.MechDamage_Smokeless_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"leftLeg":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Thigh_Left",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Left_Debris_STM.AS7_Thigh_Left_Debris_STM"
+					},
+					{
+						"boneName": "Calf_Left",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Left_Debris_STM.AS7_Calf_Left_Debris_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Thigh_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Calf_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Foot0_Left",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_Smokeless_DM1-DM2_PCL.MechDamage_Smokeless_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			},
+			"rightLeg":
+			{
+				"debrisPieces": [
+					{
+						"boneName": "Thigh_Right",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Thigh_Right_Debris_STM.AS7_Thigh_Right_Debris_STM"
+					},
+					{
+						"boneName": "Calf_Right",
+						"staticMesh": "/Game/Objects/Mechs/Atlas/Model/Body/AS7_Calf_Right_Debris_STM.AS7_Calf_Right_Debris_STM"
+					}
+				],
+				"effects": [
+					{
+						"boneName": "Thigh_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Calf_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_DM1-DM2_PCL.MechDamage_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					},
+					{
+						"boneName": "Foot0_Right",
+						"particleSystem": "/Game/Objects/Mechs/_common/Effects/MechDamage_Smokeless_DM1-DM2_PCL.MechDamage_Smokeless_DM1-DM2_PCL",
+						"particleSystemRelativePlacement": "Center"
+					}
+				],
+				"audioData": []
+			}
+		}
+	},
+	"jumpJetData":
+	{
+		"jumpJetEffectsClass": "/Game/Objects/Mechs/_common/JumpJets/DefaultJumpJets.DefaultJumpJets_C",
+		"warmupEffects": [
+			{
+				"socketName": "Jet_0_Calf_Left_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_StartSmoke_Small_PCL.Jumpjet_StartSmoke_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Calf_Right_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_StartSmoke_Small_PCL.Jumpjet_StartSmoke_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Torso_Pitch_H",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_StartSmoke_Huge_PCL.Jumpjet_StartSmoke_Huge_PCL"
+			}
+		],
+		"activeEffects": [
+			{
+				"socketName": "Jet_0_Calf_Left_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_Flame_Small_PCL.Jumpjet_Flame_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Calf_Right_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_Flame_Small_PCL.Jumpjet_Flame_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Torso_Pitch_H",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_Flame_Huge_PCL.Jumpjet_Flame_Huge_PCL"
+			}
+		],
+		"cooldownEffects": [
+			{
+				"socketName": "Jet_0_Calf_Left_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_EndSmoke_Small_PCL.Jumpjet_EndSmoke_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Calf_Right_S",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_EndSmoke_Small_PCL.Jumpjet_EndSmoke_Small_PCL"
+			},
+			{
+				"socketName": "Jet_0_Torso_Pitch_H",
+				"jumpJetParticleSystem": "/Game/Objects/Mechs/_common/JumpJets/Effects/Jumpjet_EndSmoke_Huge_PCL.Jumpjet_EndSmoke_Huge_PCL"
+			}
+		]
+	},	"animClass": "/Game/Objects/Mechs/Atlas/Animation/Atlas_ABP.Atlas_ABP_C",
+	"bitchinBettyClass": "/Game/Objects/Mechs/_common/BitchinBetty_MechDefault.BitchinBetty_MechDefault_C",
+	"breakThreshold":
+	{
+		"keyName": "AnyHeavyMech",
+		"table": "DataTable'/Game/Objects/_common/Configs/ImpulseThresholdTable.ImpulseThresholdTable'"
+	},
+	"mechAudioState": "/Game/Objects/Mechs/Atlas/Audio/Mech_Chassis_Atlas.Mech_Chassis_Atlas",
+	"mechAudioComponent": "/Game/Objects/Mechs/_common/MechAudioLogicComponent.MechAudioLogicComponent_C",
+	"footstepDecals":
+	{
+		"decalScale": 484.99999999999994,
+		"footStepDecalMap":
+		{
+			"SurfaceType4": "/Game/Objects/Mechs/Atlas/Footprints/Atlas_Footprint_Dirt_MTI.Atlas_Footprint_Dirt_MTI",
+			"SurfaceType5": "/Game/Objects/Mechs/Atlas/Footprints/Atlas_Footprint_Snow_MTI.Atlas_Footprint_Snow_MTI",
+			"SurfaceType3": "/Game/Objects/Mechs/Atlas/Footprints/Atlas_Footprint_Concrete_MTI.Atlas_Footprint_Concrete_MTI",
+			"SurfaceType6": "/Game/Objects/Mechs/Atlas/Footprints/Atlas_Footprint_Ice_MTI.Atlas_Footprint_Ice_MTI",
+			"SurfaceType_Default": "None"
+		}
+	},
+	"footstepParticlesDataAsset":
+	{
+		"id": "MWMechFootstepParticleDataAsset:Mech_Assault_Footprint_Particles"
+	},
+	"followViewCameraSettings":
+	{
+		"additionalSocketOffsetX": 0,
+		"additionalSocketOffsetY": 0,
+		"additionalSocketOffsetZ": 0,
+		"additionalBoomArmLength": 0
+	}
+}

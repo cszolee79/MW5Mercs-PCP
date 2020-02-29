@@ -1,0 +1,121 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Battlemaster/Model/Battlemaster_MDL.Battlemaster_MDL'",
+	"mechStats":
+	{
+		"keyName": "BLR-2C",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "BLR-1S",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Battlemaster.BLR-1S"
+	},
+	"chassisFullName": "BattleMaster",
+	"variantName": "BLR-2C",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:BLR-2C_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Battlemaster_Icon_UIX.Battlemaster_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Battlemaster/Target/Battlemaster_Target.Battlemaster_Target_C",
+	"description": "First built for the Star League in 2633 by Hollis Industries, the BattleMaster is one of the most iconic chassis of its time. Given its pedigree many tales of its operational record have circulated, from holding off entire lances to taking out multiple outposts single-handedly. As a well-rounded heavy-hitter with a storied past, the BattleMaster is considered a premiere assault 'Mech and a devastating force to reckon with on the field.",
+	"selectedWeaponHardPoints": [
+		"Torso_Right_AH1_AMS",
+		"Upperarm_Left_AH1_AMS",
+		"Torso_Left_EH1_mediumlaser",
+		"Torso_Left_EH2_mediumlaser",
+		"Torso_Left_EH3_mediumlaser",
+		"Torso_Right_EH1_mediumlaser",
+		"Torso_Right_EH2_mediumlaser",
+		"Forearm_Right_EH1_erppc",
+		"Torso_Left_MH1_srm6",
+		"Torso_Left_MH2_srm2"
+	],
+	"blankWeaponHardPoints": [
+		"Forearm_Right_GB1_blank"
+	],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 2,
+					"LeftTorso": 4,
+					"LeftArm": 7,
+					"LeftLeg": 2,
+					"RightTorso": 8,
+					"RightArm": 6,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 3
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"RightArm_HandActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 340,
+	"bXLEngine": false,
+	"baseChassisCost": 7121142,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

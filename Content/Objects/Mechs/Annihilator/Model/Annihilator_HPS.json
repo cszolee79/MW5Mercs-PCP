@@ -564,7 +564,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -721,7 +721,40 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallPulseLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_HPPC.Weapon_Mech_ANH_Forearm_Right_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_PPC.Weapon_Mech_ANH_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_PPC.Weapon_Mech_ANH_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_SNPPC.Weapon_Mech_ANH_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_LPPC.Weapon_Mech_ANH_Forearm_Right_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Flamer.Weapon_Mech_ANH_Forearm_Right_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_SNPPC.Weapon_Mech_ANH_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Forearm_Right_EH2_Laser.Weapon_Mech_ANH_Forearm_Right_EH2_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_EH2_mediumlaser",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumPulseLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -787,7 +820,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallPulseLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -964,9 +997,9 @@
 			},
 			"hardpointVisuals":
 			{
-				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS.Weapon_Mech_ANH_Head_AH1_LAMS_C",
-				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS.Weapon_Mech_ANH_Head_AH1_LAMS_C",
-				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS_C.Weapon_Mech_ANH_Head_AH1_LAMS_C",
+				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS.Weapon_Mech_ANH_Torso_Right_AH1_LAMS_C",
+				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS.Weapon_Mech_ANH_Torso_Right_AH1_LAMS_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Annihilator/Model/Weapons/Weapon_Mech_ANH_Torso_Right_AH1_LAMS_C.Weapon_Mech_ANH_Torso_Right_AH1_LAMS_C",
 				"()": "None"
 			}
 		},

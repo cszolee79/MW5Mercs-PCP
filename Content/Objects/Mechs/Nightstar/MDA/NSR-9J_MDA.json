@@ -1,0 +1,118 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Nightstar/Model/Nightstar_MDL.Nightstar_MDL'",
+	"mechStats":
+	{
+		"keyName": "NSR-9J",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "NSR-9J",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Assault.Nightstar.NSR-9J"
+	},
+	"chassisFullName": "Nightstar",
+	"variantName": "NSR-9J",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:NSR-9J_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Nightstar_Icon_UIX.Nightstar_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Nightstar/Target/Nightstar_Target.Nightstar_Target_C",
+	"description": "The Nightstar was born in the early years of the Amaris Civil War when it became clear that battlefield commanders, especially those piloting Marauders, were being specifically targeted by Amaris troops. Eight months after the SLDF commissioned this heavy support and command ’Mech, the first Nightstars were put into production in 2767. Following Kerensky’s Exodus it became an early casualty of the First Succession War, with both of its production facilities being destroyed in 2786. A pair of Gauss Rifles supplemented with an ERPPC give it unprecedented long-range capabilities.",
+	"selectedWeaponHardPoints": [
+		"Head_EH1_Laser_smalllaser",
+		"Torso_Right_EH1_erppc",
+		"Forearm_Right_EH1_mediumpulselaser",
+		"Forearm_Right_BH1_gaussrifle",
+		"Forearm_Left_EH1_mediumpulselaser",
+		"Forearm_Left_BH1_gaussrifle",
+		"Torso_Left_AH1_AMS_antimissilesystem",
+		"Forearm_Right_EH2_mediumpulselaser",
+		"Forearm_Left_EH2_mediumpulselaser"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Double"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 2,
+					"LeftTorso": 8,
+					"LeftArm": -1,
+					"LeftLeg": 2,
+					"RightTorso": 7,
+					"RightArm": -1,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"RightArm_HandActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 285,
+	"bXLEngine": true,
+	"baseChassisCost": 17468490,
+	"salvageShareCost": 26,
+	"bIsHeroMech": false
+}

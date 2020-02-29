@@ -1,0 +1,117 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Warhammer/Model/Warhammer_MDL.Warhammer_MDL'",
+	"mechStats":
+	{
+		"keyName": "WHM-7S",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "WHM-6R",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Heavy.Warhammer.WHM-6R"
+	},
+	"chassisFullName": "Warhammer",
+	"variantName": "WHM-7S",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:WHM-7S_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Warhammer_Icon_UIX.Warhammer_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Warhammer/Target/Warhammer_Target.Warhammer_Target_C",
+	"description": "When the procurement officer outlined requirements for “a mobile ’Mech with enough firepower to destroy or severely damage any ’Mech of the same weight class or lower\", StarCorps Industries responded in 2515 with the aptly named Warhammer. Serving ably in the ranks of the Star League, the Warhammer formed the backbone of several heavy regiments. The Warhammer supplements its devastating long-range capabilities with a host of medium and short-range weapons.",
+	"selectedWeaponHardPoints": [
+		"Torso_Center_AH1_antimissilesystem",
+		"Forearm_Left_EH1_erppc",
+		"Forearm_Right_EH1_erppc",
+		"Torso_Left_EH1_mediumlaser",
+		"Torso_Left_EH2_smalllaser",
+		"Torso_Left_MH1_srm6",
+		"Torso_Right_EH1_mediumlaser",
+		"Torso_Right_EH2_smalllaser",
+		"Torso_Right_MH1_srm6",
+		"Torso_Right_MH2_srm4"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": true,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:StandardStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Double"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 1,
+					"LeftTorso": 7,
+					"LeftArm": 7,
+					"LeftLeg": 2,
+					"RightTorso": 6,
+					"RightArm": 7,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 280,
+	"bXLEngine": false,
+	"baseChassisCost": 4920933,
+	"salvageShareCost": 19,
+	"bIsHeroMech": false
+}

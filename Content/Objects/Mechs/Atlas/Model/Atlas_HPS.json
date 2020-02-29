@@ -813,9 +813,9 @@
 			},
 			"hardpointVisuals":
 			{
-				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Atlas/Model/Weapons/Weapon_Mech_AS7_Clavicle_Right_AH1_AMS.Weapon_Mech_AS7_Clavicle_Right_AH1_AMS_C",
+				"(TagName=\"Weapon.AMS\")": "/Game/Objects/Mechs/Atlas/Model/Weapons/Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS.Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS_C",
 				"(TagName=\"Weapon.Energy.LAMS\")": "/Game/Objects/Mechs/Atlas/Model/Weapons/Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS.Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS_C",
-				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Atlas/Model/Weapons/Weapon_Mech_AS7_Clavicle_Right_AH1_AMS.Weapon_Mech_AS7_Clavicle_Right_AH1_AMS_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Atlas/Model/Weapons/Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS.Weapon_Mech_AS7_Clavicle_Right_AH1_LAMS_C",
 				"()": "None"
 			}
 		},

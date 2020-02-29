@@ -1,0 +1,105 @@
+{
+	"mechModel": "MWMechModelDataAsset'/Game/Objects/Mechs/Banshee/Model/Banshee_MDL.Banshee_MDL'",
+	"mechStats":
+	{
+		"keyName": "BNC-3MC",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechStats.MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "BNC-3MC",
+		"table": "DataTable'/Game/Objects/Mechs/_common/Config/MechHealthStats.MechHealthStats'"
+	},
+	"chassisFullName": "Banshee",
+	"variantName": "BNC-3MC",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:BNC-3MC_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Banshee_Icon_UIX.Banshee_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Banshee/Target/Banshee_Target.Banshee_Target_C",
+	"selectedWeaponHardPoints": [
+		"Head_EH1_Laser_mediumlaser",
+		"Torso_Left_EH1_mediumlaser",
+		"Torso_Left_EH2_mediumlaser",
+		"Torso_Right_EH1_mediumlaser",
+		"Torso_Right_EH2_largepulselaser",
+		"Torso_Right_EH3_largepulselaser",
+		"Torso_Right_EH4_largepulselaser"
+	],
+	"blankWeaponHardPoints": [],
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:EndoSteelStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Double"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 0,
+					"CenterTorso": 2,
+					"LeftTorso": 10,
+					"RightTorso": 5,
+					"LeftArm": 8,
+					"RightArm": 8,
+					"LeftLeg": 2,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 4
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"LeftArm_LowerActuator",
+			"LeftArm_HandActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"RightArm_LowerActuator",
+			"RightArm_HandActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		]
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:MechRefitCostsDefault"
+	},
+	"engineRating": 350,
+	"bXLEngine": false,
+	"baseChassisCost": 8519289,
+	"salvageShareCost": 10
+}

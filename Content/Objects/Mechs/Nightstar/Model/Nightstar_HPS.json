@@ -7,7 +7,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:SmallLaser_SlotType"
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -24,6 +24,33 @@
 				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Head_EH1_Laser.Weapon_Mech_NSR_Head_EH1_Laser_C",
 				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Head_EH1_Flamer.Weapon_Mech_NSR_Head_EH1_Flamer_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Head_EH1_Laser.Weapon_Mech_NSR_Head_EH1_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Center_EH1_mediumlaser",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "CenterTorso",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Flamer.Weapon_Mech_NSR_Torso_Center_EH1_Flamer_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Center_EH1_Laser.Weapon_Mech_NSR_Torso_Center_EH1_Laser_C",
 				"()": "None"
 			}
 		},
@@ -61,6 +88,39 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Torso_Right_EH2_erppc",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "RightTorso",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:ERPPC_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_PPC.Weapon_Mech_NSR_Torso_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_HPPC.Weapon_Mech_NSR_Torso_Right_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_PPC.Weapon_Mech_NSR_Torso_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_SNPPC.Weapon_Mech_NSR_Torso_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_LPPC.Weapon_Mech_NSR_Torso_Right_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Laser.Weapon_Mech_NSR_Torso_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_Flamer.Weapon_Mech_NSR_Torso_Right_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_SNPPC.Weapon_Mech_NSR_Torso_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Torso_Right_EH2_PPC.Weapon_Mech_NSR_Torso_Right_EH2_PPC_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Forearm_Right_EH1_mediumpulselaser",
 			"mechSkeletonSocketId": "Forearm_Right_Weapon",
 			"mechPart": "RightArm",
@@ -90,6 +150,39 @@
 				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH1_Flamer.Weapon_Mech_NSR_Forearm_Right_EH1_Flamer_C",
 				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH1_SNPPC.Weapon_Mech_NSR_Forearm_Right_EH1_SNPPC_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH1_Laser.Weapon_Mech_NSR_Forearm_Right_EH1_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_EH2_mediumpulselaser",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumPulseLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_HPPC.Weapon_Mech_NSR_Forearm_Right_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_PPC.Weapon_Mech_NSR_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_PPC.Weapon_Mech_NSR_Forearm_Right_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_SNPPC.Weapon_Mech_NSR_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_LPPC.Weapon_Mech_NSR_Forearm_Right_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Flamer.Weapon_Mech_NSR_Forearm_Right_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_SNPPC.Weapon_Mech_NSR_Forearm_Right_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Right_EH2_Laser.Weapon_Mech_NSR_Forearm_Right_EH2_Laser_C",
 				"()": "None"
 			}
 		},
@@ -156,6 +249,39 @@
 				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH1_Flamer.Weapon_Mech_NSR_Forearm_Left_EH1_Flamer_C",
 				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH1_SNPPC.Weapon_Mech_NSR_Forearm_Left_EH1_SNPPC_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH1_Laser.Weapon_Mech_NSR_Forearm_Left_EH1_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_EH2_mediumpulselaser",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MediumPulseLaser_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_HPPC.Weapon_Mech_NSR_Forearm_Left_EH2_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_PPC.Weapon_Mech_NSR_Forearm_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_PPC.Weapon_Mech_NSR_Forearm_Left_EH2_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_SNPPC.Weapon_Mech_NSR_Forearm_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_LPPC.Weapon_Mech_NSR_Forearm_Left_EH2_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Flamer.Weapon_Mech_NSR_Forearm_Left_EH2_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_SNPPC.Weapon_Mech_NSR_Forearm_Left_EH2_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Nightstar/Model/Weapons/Weapon_Mech_NSR_Forearm_Left_EH2_Laser.Weapon_Mech_NSR_Forearm_Left_EH2_Laser_C",
 				"()": "None"
 			}
 		},
